@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predictive Analytics Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="predictive.css">
+</head>
+
+<body>
+
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+</header>
+
+</div>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+<h3>MENU</h3>
+<ul>
+<li onclick="window.location.href='../member2_analytics_dashboard/analytics.html'">
+    📊 Analytics Dashboard
+</li>
+
+<li onclick="window.location.href='../member3_claim_manage/claim_submission.html'">
+    📄Claims Management
+</li>
+
+<li onclick="window.location.href='../member4_fraud_detect/frontend/dashboard.html'">
+    🤖 AI Fraud Detection
+</li>
+
+<li onclick="window.location.href='../member5_predictive_analytics/predictive.html'">
+    📈 Predictive Analytics
+</li>
+
+<li onclick="window.location.href='../member6_notification_alert/frontend/dashboard.html'">
+    🔔 Notifications & Alerts
+</li>
+
+<li onclick="window.location.href='../member7_reports_document/report.html'">
+    ☁️ Reports & Documentation
+</li>
+
+<li onclick="window.location.href='../member8_ai_recommdation/Airecom.html'">
+    🤖 AI Insights
+</li>
+</ul>
+</div>
+
+
+
+    <div class="container">
+
+        <h1 class="section-title">
+            Predictive Analytics Dashboard
+        </h1>
+
+        <!-- Statistics -->
+
+        <div class="stats">
+
+            <div class="stat-box">
+                <h2 id="totalClaims">0</h2>
+                <p>Total Historical Claims</p>
+            </div>
+
+            <div class="stat-box">
+                <h2 id="futureClaims">0</h2>
+                <p>Predicted Claims</p>
+            </div>
+
+            <div class="stat-box">
+                <h2 id="futureCost">₹0</h2>
+                <p>Future Claim Cost</p>
+            </div>
+
+            <div class="stat-box">
+                <h2 id="accuracy">0%</h2>
+                <p>AI Accuracy</p>
+            </div>
+
+        </div>
+
+        <!-- Story 1 -->
+
+        <div class="card">
+
+            <h2>Story 1 : Prediction Model</h2>
+
+            <p>
+                Analyze historical healthcare claims, build prediction algorithm,
+                simulate AI model and evaluate prediction accuracy.
+            </p>
+
+            <button class="btn" onclick="runPrediction()">
+                Run Prediction
+            </button>
+
+        </div>
+
+        <!-- Story 2 -->
+
+        <div class="card">
+
+            <h2>Story 2 : Cost Prediction</h2>
+
+            <table>
+
+                <tr>
+                    <th>Month</th>
+                    <th>Predicted Claims</th>
+                    <th>Estimated Cost</th>
+                </tr>
+
+                <tr>
+                    <td>July</td>
+                    <td id="julyClaims">-</td>
+                    <td id="julyCost">-</td>
+                </tr>
+
+                <tr>
+                    <td>August</td>
+                    <td id="augClaims">-</td>
+                    <td id="augCost">-</td>
+                </tr>
+
+                <tr>
+                    <td>September</td>
+                    <td id="sepClaims">-</td>
+                    <td id="sepCost">-</td>
+                </tr>
+
+            </table>
+
+        </div>
+
+        <!-- Story 3 -->
+
+        <div class="card">
+
+            <h2>Story 3 : Claim Forecasting</h2>
+
+            <table>
+
+                <tr>
+                    <th>Forecast</th>
+                    <th>Result</th>
+                </tr>
+
+                <tr>
+                    <td>Historical Data</td>
+                    <td id="history">Waiting...</td>
+                </tr>
+
+                <tr>
+                    <td>Trend Analysis</td>
+                    <td id="trend">Waiting...</td>
+                </tr>
+
+                <tr>
+                    <td>Seasonal Trend</td>
+                    <td id="season">Waiting...</td>
+                </tr>
+
+                <tr>
+                    <td>Forecast Report</td>
+                    <td id="report">Waiting...</td>
+                </tr>
+
+            </table>
+
+        </div>
+
+        <!-- Prediction Insights -->
+
+        <div class="card">
+
+            <h2>Prediction Insights</h2>
+
+            <textarea id="insight" rows="10" readonly>
+Click Run Prediction Button...
+</textarea>
+
+        </div>
+        <div class="card">
+
+    <h2>Prediction Line Chart</h2>
+
+    <canvas id="predictionChart"></canvas>
+
+</div>
+
+        <!-- Prediction Chart -->
+
+        <div class="card">
+
+            <h2>Prediction Chart</h2>
+
+            <progress id="chart" value="0" max="100" style="width:100%;height:30px;"></progress>
+
+            <br><br>
+
+            <p id="chartText">Prediction not generated.</p>
+
+        </div>
+
+    </div>
+
+<div class="bottom-nav">
+
+    <a href="../member4_fraud_detect/frontend/dashboard.html">
+        &larr; Previous
+    </a>
+
+    <a href="../member6_notification_alert/frontend/dashboard.html" class="next-btn">
+        Notifications &amp; Alerts &rarr;
+    </a>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<footer class="footer" id="footer">
+
+<p>© 2026 All Rights Reserved Healthcare Claims Analytics Portal</p>
+
+</footer>
+
+</div>
+
+    <script src="predictive.js"></script>
+
+</body>
+
+</html>

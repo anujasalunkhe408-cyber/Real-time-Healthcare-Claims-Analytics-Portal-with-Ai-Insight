@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claim Tracking</title>
+
+<link rel="stylesheet" href="claim.css">
+
+</head>
+<body>
+
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+
+</div>
+
+</header>
+
+<nav class="navbar">
+    <a href="claim_submission.html">Claim Submission</a>
+    <a href="claim_tracking.html">Claim Tracking</a>
+    <a href="claim_storage.html">Claim Storage</a>
+    <a href="claim_details.html">Claim Details</a>
+</nav>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+
+    <h3>MENU</h3>
+
+    <ul>
+
+        <li onclick="window.location.href='../member2_analytics_dashboard/analytics.html'">
+            📊 Analytics Dashboard
+        </li>
+
+        <li onclick="window.location.href='claim_submission.html'">
+            📄 Claims Management
+        </li>
+
+        <li onclick="window.location.href='../member4_fraud_detect/frontend/dashboard.html'">
+            🤖 AI Fraud Detection
+        </li>
+
+        <li onclick="window.location.href='../member5_predictive_analytics/predictive.html'">
+            📈 Predictive Analytics
+        </li>
+
+        <li onclick="window.location.href='../member6_notification_alert/frontend/dashboard.html'">
+            🔔 Notifications & Alerts
+        </li>
+
+        <li onclick="window.location.href='../member7_reports_document/report.html'">
+            ☁️ Reports & Documentation
+        </li>
+
+        <li onclick="window.location.href='../member8_ai_recommdation/Airecom.html'">
+            🤖 AI Insights
+        </li>
+
+    </ul>
+
+</div>
+
+<div class="container">
+
+<h1 class="section-title">Claim Tracking System</h1>
+
+<div class="stats">
+
+<div class="stat-box">
+<h2>30</h2>
+<p>Total Claims</p>
+</div>
+
+<div class="stat-box">
+<h2>20</h2>
+<p>Approved Claims</p>
+</div>
+
+<div class="stat-box">
+<h2>5</h2>
+<p>Pending Claims</p>
+</div>
+
+<div class="stat-box">
+<h2>5</h2>
+<p>Rejected Claims</p>
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>Search & Filter Claims</h2>
+
+<label>Enter Claim ID</label>
+
+<input type="text"
+class="input-field"
+id="claimSearch"
+value="CL031"
+readonly>
+
+
+<div class="card">
+
+<h2>Current Claim Status</h2>
+
+<div class="status-approved">
+Approved
+</div>
+
+<br>
+
+<p><b>Claim ID:</b> CL031</p>
+<p><b>Patient:</b> Rahul Patil</p>
+<p><b>Hospital:</b> City Care Hospital</p>
+<p><b>Department:</b> Cardiology</p>
+<p><b>Amount:</b> ₹85,000</p>
+
+<button class="btn" onclick="downloadReport()">
+Download Report
+</button>
+
+</div>    
+
+
+
+<div class="card">
+
+<h2>Claim Progress Tracker</h2>
+
+<div class="progress-card">
+
+<p>Claim Verification</p>
+<div class="progress-bar">
+<div class="progress-fill verify">100%</div>
+</div>
+
+<p>Medical Review</p>
+<div class="progress-bar">
+<div class="progress-fill review">90%</div>
+</div>
+
+<p>Final Approval</p>
+<div class="progress-bar">
+<div class="progress-fill approval">75%</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>Claims Tracking Records</h2>
+
+<div class="table-container">
+
+<table id="claimTable">
+
+<thead>
+
+<tr>
+<th>Claim ID</th>
+<th>Patient</th>
+<th>Hospital</th>
+<th>Department</th>
+<th>Amount</th>
+<th>Status</th>
+<th>Date</th>
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr><td>CL001</td><td>Rahul Patil</td><td>City Care Hospital</td><td>Cardiology</td><td>₹85,000</td><td>Approved</td><td>2026-06-01</td></tr>
+<tr><td>CL002</td><td>Priya Sharma</td><td>Lifeline Hospital</td><td>Neurology</td><td>₹65,000</td><td>Pending</td><td>2026-06-02</td></tr>
+<tr><td>CL003</td><td>Amit Verma</td><td>Sunshine Hospital</td><td>Orthopedics</td><td>₹1,20,000</td><td>Rejected</td><td>2026-06-03</td></tr>
+<tr><td>CL004</td><td>Sneha Joshi</td><td>Metro Hospital</td><td>General Medicine</td><td>₹25,000</td><td>Approved</td><td>2026-06-04</td></tr>
+<tr><td>CL005</td><td>Rohan Kulkarni</td><td>City Care Hospital</td><td>Oncology</td><td>₹1,80,000</td><td>Approved</td><td>2026-06-05</td></tr>
+<tr><td>CL006</td><td>Neha Patil</td><td>Lifeline Hospital</td><td>Cardiology</td><td>₹95,000</td><td>Pending</td><td>2026-06-06</td></tr>
+<tr><td>CL007</td><td>Arjun Singh</td><td>Metro Hospital</td><td>Neurology</td><td>₹70,000</td><td>Approved</td><td>2026-06-07</td></tr>
+<tr><td>CL008</td><td>Pooja Kale</td><td>Sunshine Hospital</td><td>Orthopedics</td><td>₹1,10,000</td><td>Rejected</td><td>2026-06-08</td></tr>
+<tr><td>CL009</td><td>Vikram Shah</td><td>City Care Hospital</td><td>Oncology</td><td>₹2,20,000</td><td>Approved</td><td>2026-06-09</td></tr>
+<tr><td>CL010</td><td>Kavita More</td><td>Lifeline Hospital</td><td>General Medicine</td><td>₹30,000</td><td>Approved</td><td>2026-06-10</td></tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="bottom-nav">
+
+    <a href="../member2_analytics_dashboard/analytics.html">
+        &larr; Previous
+    </a>
+
+    <a href="../member4_fraud_detect/frontend/dashboard.html" class="next-btn">
+        Fraud Detection &rarr;
+    </a>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<footer class="footer" id="footer">
+
+<p>© 2026 All Rights Reserved Healthcare Claims Analytics Portal</p>
+
+</footer>
+
+<script src="claim.js"></script>
+
+</body>
+</html>

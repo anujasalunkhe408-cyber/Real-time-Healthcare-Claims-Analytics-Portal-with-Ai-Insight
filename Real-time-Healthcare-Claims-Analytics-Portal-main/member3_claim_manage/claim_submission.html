@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claim Submission</title>
+
+<link rel="stylesheet" href="claim.css">
+
+</head>
+<body>
+
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+
+</div>
+
+</header>
+    
+<nav class="navbar">
+    <a href="claim_submission.html">Claim Submission</a>
+    <a href="claim_tracking.html">Claim Tracking</a>
+    <a href="claim_storage.html">Claim Storage</a>
+    <a href="claim_details.html">Claim Details</a>
+</nav>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+
+    <h3>MENU</h3>
+
+    <ul>
+
+        <li onclick="window.location.href='../member2_analytics_dashboard/analytics.html'">
+            📊 Analytics Dashboard
+        </li>
+
+        <li onclick="window.location.href='claim_submission.html'">
+            📄 Claims Management
+        </li>
+
+        <li onclick="window.location.href='../member4_fraud_detect/frontend/dashboard.html'">
+            🤖 AI Fraud Detection
+        </li>
+
+        <li onclick="window.location.href='../member5_predictive_analytics/predictive.html'">
+            📈 Predictive Analytics
+        </li>
+
+        <li onclick="window.location.href='../member6_notification_alert/frontend/dashboard.html'">
+            🔔 Notifications & Alerts
+        </li>
+
+        <li onclick="window.location.href='../member7_reports_document/report.html'">
+            ☁️ Reports & Documentation
+        </li>
+
+        <li onclick="window.location.href='../member8_ai_recommdation/Airecom.html'">
+            🤖 AI Insights
+        </li>
+
+    </ul>
+
+</div>
+
+<div class="container">
+
+    <h1 class="section-title submission-title">
+        Claim Submission Portal
+    </h1>
+
+    <div class="stats">
+
+        <div class="stat-box">
+            <h2>31</h2>
+            <p>Total Claims</p>
+        </div>
+
+        <div class="stat-box">
+            <h2>20</h2>
+            <p>Approved</p>
+        </div>
+
+        <div class="stat-box">
+            <h2>6</h2>
+            <p>Pending</p>
+        </div>
+
+        <div class="stat-box">
+            <h2>5</h2>
+            <p>Rejected</p>
+        </div>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Submit New Claim</h2>
+
+        <form id="claimForm">
+
+            <label>Claim ID</label>
+            <input type="text"
+            class="input-field"
+            value="CL031"
+            readonly>
+
+            <label>Patient Name</label>
+            <input type="text"
+            class="input-field"
+            value="Rahul Patil"
+            readonly>
+
+            <label>Hospital Name</label>
+            <input type="text"
+            class="input-field"
+            value="City Care Hospital"
+            readonly>
+
+            <label>Department</label>
+
+            <select class="input-field" disabled>
+                <option selected>
+                    Cardiology
+                </option>
+            </select>
+
+            <label>Claim Amount</label>
+            <input type="number"
+            class="input-field"
+            value="85000"
+            readonly>
+
+            <label>Treatment Details</label>
+
+            <textarea rows="5" readonly>
+Patient diagnosed with Coronary Artery Disease.
+Hospitalization Duration: 5 Days.
+Treatment completed successfully.
+Claim submitted for reimbursement approval.
+            </textarea>
+
+            <label>Supporting Document</label>
+
+            <input type="text"
+            class="input-field"
+            value="Cardiology_Report_CL031.pdf"
+            readonly>
+
+            <button type="button" class="btn" onclick="submitClaim()">
+                Claim Submitted Successfully
+            </button>
+            <p id="successMsg" style="display:none;color:green;font-weight:bold;margin-top:15px;">
+                ✅ Claim Submitted Successfully!
+            </p>
+
+        </form>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Required Documents</h2>
+
+        <ul>
+            <li>Medical Bills</li>
+            <li>Doctor Prescription</li>
+            <li>Hospital Discharge Summary</li>
+            <li>Insurance Policy Copy</li>
+            <li>Identity Proof</li>
+        </ul>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Claim Submission Guidelines</h2>
+
+        <p>
+            Submit all documents in PDF format.
+            Maximum file size allowed is 5MB.
+            Ensure claim details are accurate before submission.
+            Incorrect information may result in rejection.
+        </p>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Recent Claim Activity</h2>
+
+        <table>
+
+            <thead>
+
+            <tr>
+                <th>Claim ID</th>
+                <th>Patient</th>
+                <th>Hospital</th>
+                <th>Status</th>
+            </tr>
+
+            </thead>
+
+            <tbody id="activityTable">
+
+            <tr>
+                <td>CL031</td>
+                <td>Rahul Patil</td>
+                <td>City Care Hospital</td>
+                <td>Pending</td>
+            </tr>
+
+            <tr>
+                <td>CL028</td>
+                <td>Nikhil Shah</td>
+                <td>Apex Hospital</td>
+                <td>Rejected</td>
+            </tr>
+
+            <tr>
+                <td>CL029</td>
+                <td>Rutuja Patil</td>
+                <td>Hope Hospital</td>
+                <td>Approved</td>
+            </tr>
+
+            <tr>
+                <td>CL030</td>
+                <td>Sachin More</td>
+                <td>Metro Hospital</td>
+                <td>Approved</td>
+            </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+<div class="bottom-nav">
+
+    <a href="../member2_analytics_dashboard/analytics.html">
+        &larr; Previous
+    </a>
+
+    <a href="../member4_fraud_detect/frontend/dashboard.html" class="next-btn">
+        Fraud Detection &rarr;
+    </a>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<footer class="footer" id="footer">
+
+<p>© 2026 All Rights Reserved Healthcare Claims Analytics Portal</p>
+
+</footer>
+
+</div>
+
+<script src="claim.js"></script>
+
+</body>
+</html>

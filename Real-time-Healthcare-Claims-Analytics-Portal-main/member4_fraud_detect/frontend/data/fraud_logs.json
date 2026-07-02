@@ -1,0 +1,23 @@
+[
+    {
+        "claim_id": "C0015",
+        "patient_id": "P302",
+        "hospital_id": "H005",
+        "risk_score": 90,
+        "status": "High Risk"
+    },
+    {
+        "claim_id": "C0032",
+        "patient_id": "P214",
+        "hospital_id": "H009",
+        "risk_score": 86,
+        "status": "Medium Risk"
+    },
+    {
+        "claim_id": "C0047",
+        "patient_id": "P189",
+        "hospital_id": "H012",
+        "risk_score": 92,
+        "status": "High Risk"
+    }
+]

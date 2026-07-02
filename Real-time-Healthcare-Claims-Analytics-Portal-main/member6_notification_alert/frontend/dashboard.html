@@ -1,0 +1,1361 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Healthcare Notifications & Alerts Dashboard</title>
+
+    <!-- CSS -->
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Font Awesome -->
+
+    
+
+</head>
+
+<body>
+
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+
+</div>
+
+</header>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+<h3>MENU</h3>
+<ul>
+<li onclick="window.location.href='../../member2_analytics_dashboard/analytics.html'">
+    📊 Analytics Dashboard
+</li>
+
+<li onclick="window.location.href='../../member3_claim_manage/claim_submission.html'">
+    📄Claims Management
+</li>
+
+<li onclick="window.location.href='../../member4_fraud_detect/frontend/dashboard.html'">
+    🤖 AI Fraud Detection
+</li>
+
+<li onclick="window.location.href='../../member5_predictive_analytics/predictive.html'">
+    📈 Predictive Analytics
+</li>
+
+<li onclick="window.location.href='../../member6_notification_alert/frontend/dashboard.html'">
+    🔔 Notifications & Alerts
+</li>
+
+<li onclick="window.location.href='../../member7_reports_document/report.html'">
+    ☁️ Reports & Documentation
+</li>
+
+<li onclick="window.location.href='../../member8_ai_recommdation/Airecom.html'">
+    🤖 AI Insights
+</li>
+</ul>
+</div>
+
+<!-- ===========================================================
+                    MAIN CONTENT
+============================================================ -->
+
+<div class="main-content">
+
+    <!-- =======================================================
+                    DASHBOARD START
+    ======================================================== -->
+
+    <section id="dashboard">
+
+        <div class="dashboard-header">
+
+            <h1>
+
+                Dashboard Overview
+
+            </h1>
+
+            <p>
+
+                Notifications & Alerts Summary
+
+            </p>
+
+        </div>
+
+        <!-- Dashboard Cards will be added in Part 2 -->
+
+    </section>
+<!-- ===========================================================
+                    DASHBOARD CARDS
+============================================================ -->
+
+<div class="cards">
+
+    <!-- ================= EMAILS ================= -->
+
+    <div class="card blue">
+
+        <div class="card-icon">
+
+            <i class="fa-solid fa-envelope"></i>
+
+        </div>
+
+        <div class="card-info">
+
+            <h2 id="totalEmails">
+
+                1000
+
+            </h2>
+
+            <p>
+
+                Total Emails
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <!-- ================= FRAUD ALERTS ================= -->
+
+    <div class="card red">
+
+        <div class="card-icon">
+
+            <i class="fa-solid fa-triangle-exclamation"></i>
+
+        </div>
+
+        <div class="card-info">
+
+            <h2 id="fraudAlerts">
+
+                251
+
+            </h2>
+
+            <p>
+
+                Fraud Alerts
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <!-- ================= SYSTEM ALERTS ================= -->
+
+    <div class="card green">
+
+        <div class="card-icon">
+
+            <i class="fa-solid fa-server"></i>
+
+        </div>
+
+        <div class="card-info">
+
+            <h2 id="systemAlerts">
+
+                5
+
+            </h2>
+
+            <p>
+
+                System Alerts
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <!-- ================= ADMIN NOTIFICATIONS ================= -->
+
+    <div class="card purple">
+
+        <div class="card-icon">
+
+            <i class="fa-solid fa-user-shield"></i>
+
+        </div>
+
+        <div class="card-info">
+
+            <h2 id="adminNotifications">
+
+                251
+
+            </h2>
+
+            <p>
+
+                Admin Notifications
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <!-- ================= PENDING REMINDERS ================= -->
+
+    <div class="card orange">
+
+        <div class="card-icon">
+
+            <i class="fa-solid fa-clock"></i>
+
+        </div>
+
+        <div class="card-info">
+
+            <h2 id="pendingReminders">
+
+                325
+
+            </h2>
+
+            <p>
+
+                Pending Reminders
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <!-- ================= FOLLOW-UP ALERTS ================= -->
+
+    <div class="card cyan">
+
+        <div class="card-icon">
+
+            <i class="fa-solid fa-bell"></i>
+
+        </div>
+
+        <div class="card-info">
+
+            <h2 id="followupAlerts">
+
+                87
+
+            </h2>
+
+            <p>
+
+                Follow-up Alerts
+
+            </p>
+
+        </div>
+
+    </div>
+
+</div>
+
+</section>
+<!-- ===========================================================
+                    EMAIL NOTIFICATIONS
+============================================================ -->
+
+<section id="email" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-envelope"></i>
+
+            Email Notifications
+
+        </h2>
+
+        <p>
+
+            Approval, rejection and status update emails sent to patients.
+
+        </p>
+
+    </div>
+
+    <div class="email-container">
+
+        <!-- Approval Email -->
+
+        <div class="email-card approval">
+
+            <div class="email-icon">
+
+                <i class="fa-solid fa-circle-check"></i>
+
+            </div>
+
+            <div class="email-content">
+
+                <h3>
+
+                    Approval Email
+
+                </h3>
+
+                <p>
+
+                    Claim ID :
+                    <strong id="approvalClaim">
+
+                        C1001
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Patient :
+                    <strong id="approvalPatient">
+
+                        Rahul Sharma
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Status :
+                    <span class="approved">
+
+                        Approved
+
+                    </span>
+
+                </p>
+
+            </div>
+
+        </div>
+
+        <!-- Rejection Email -->
+
+        <div class="email-card rejection">
+
+            <div class="email-icon">
+
+                <i class="fa-solid fa-circle-xmark"></i>
+
+            </div>
+
+            <div class="email-content">
+
+                <h3>
+
+                    Rejection Email
+
+                </h3>
+
+                <p>
+
+                    Claim ID :
+                    <strong id="rejectionClaim">
+
+                        C1008
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Patient :
+                    <strong id="rejectionPatient">
+
+                        Amit Kumar
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Status :
+                    <span class="rejected">
+
+                        Rejected
+
+                    </span>
+
+                </p>
+
+            </div>
+
+        </div>
+
+        <!-- Status Update -->
+
+        <div class="email-card pending">
+
+            <div class="email-icon">
+
+                <i class="fa-solid fa-clock"></i>
+
+            </div>
+
+            <div class="email-content">
+
+                <h3>
+
+                    Status Update
+
+                </h3>
+
+                <p>
+
+                    Claim ID :
+                    <strong id="statusClaim">
+
+                        C1025
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Patient :
+                    <strong id="statusPatient">
+
+                        Priya Patel
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Status :
+                    <span class="pending">
+
+                        Pending Verification
+
+                    </span>
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ===========================================================
+                    FRAUD ALERTS
+============================================================ -->
+
+<section id="fraud" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-triangle-exclamation"></i>
+
+            Fraud Alerts
+
+        </h2>
+
+        <p>
+
+            High-risk healthcare claims detected by the AI system.
+
+        </p>
+
+    </div>
+
+    <div class="alert-card">
+
+        <div class="alert-left">
+
+            <div class="alert-icon">
+
+                <i class="fa-solid fa-triangle-exclamation"></i>
+
+            </div>
+
+        </div>
+
+        <div class="alert-right">
+
+            <h3>
+
+                High Risk Claim Detected
+
+            </h3>
+
+            <p>
+
+                The AI Fraud Detection Engine has identified a suspicious healthcare claim requiring immediate review.
+
+            </p>
+
+            <div class="alert-details">
+
+                <div>
+
+                    <span>Claim ID</span>
+
+                    <strong id="claimId">
+
+                        C1052
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Patient ID</span>
+
+                    <strong id="patientId">
+
+                        P214
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Hospital</span>
+
+                    <strong id="hospitalId">
+
+                        H007
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Risk Score</span>
+
+                    <strong id="riskScore">
+
+                        96%
+
+                    </strong>
+
+                </div>
+
+            </div>
+
+            <button id="viewAlertBtn">
+
+                View Details
+
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- ===========================================================
+                    SYSTEM ALERTS
+============================================================ -->
+
+<section id="system" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-server"></i>
+
+            System Alerts
+
+        </h2>
+
+        <p>
+
+            Current health and operational status of the notification system.
+
+        </p>
+
+    </div>
+
+    <div class="system-alerts">
+
+        <div class="system-card online">
+
+            <div class="system-icon">
+
+                <i class="fa-solid fa-database"></i>
+
+            </div>
+
+            <div class="system-info">
+
+                <h3>
+
+                    Database
+
+                </h3>
+
+                <p id="databaseStatus">
+
+                    Connected Successfully
+
+                </p>
+
+            </div>
+
+            <button id="databaseBtn" class="status online-status">
+
+                Download Database
+
+            </button>
+
+        </div>
+
+        <div class="system-card running">
+
+            <div class="system-icon">
+
+                <i class="fa-solid fa-brain"></i>
+
+            </div>
+
+            <div class="system-info">
+
+                <h3>
+
+                    AI Engine
+
+                </h3>
+
+                <p id="aiStatus">
+
+                    Fraud Detection Running
+
+                </p>
+
+            </div>
+
+            <span class="status running-status">
+
+                Running
+
+            </span>
+
+        </div>
+
+        <div class="system-card mail">
+
+            <div class="system-icon">
+
+                <i class="fa-solid fa-envelope"></i>
+
+            </div>
+
+            <div class="system-info">
+
+                <h3>
+
+                    Email Service
+
+                </h3>
+
+                <p id="emailStatus">
+
+                    Email Notification Active
+
+                </p>
+
+            </div>
+
+            <span  id="emailServiceBtn" class="status online-status">
+
+                Active
+
+            </span>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ===========================================================
+                ADMINISTRATOR NOTIFICATIONS
+============================================================ -->
+
+<section id="admin" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-user-shield"></i>
+
+            Administrator Notifications
+
+        </h2>
+
+        <p>
+
+            High-priority notifications generated for system administrators.
+
+        </p>
+
+    </div>
+
+    <div class="notification-card">
+
+        <div class="notification-left">
+
+            <div class="notification-icon">
+
+                <i class="fa-solid fa-bell"></i>
+
+            </div>
+
+        </div>
+
+        <div class="notification-right">
+
+            <h3>
+
+                High Risk Healthcare Claim
+
+            </h3>
+
+            <p>
+
+                AI has detected a suspicious healthcare claim requiring immediate administrator review.
+
+            </p>
+
+            <div class="notification-details">
+
+                <div>
+
+                    <span>Claim ID</span>
+
+                    <strong id="notificationClaim">
+
+                        C1052
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Priority</span>
+
+                    <strong class="high-priority">
+
+                        HIGH
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Status</span>
+
+                    <strong id="notificationStatus">
+
+                        Unread
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Time</span>
+
+                    <strong id="notificationTime">
+
+                        10:45 AM
+
+                    </strong>
+
+                </div>
+
+            </div>
+
+            <button id="reviewNotificationBtn">
+
+                Review Notification
+
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
+<!-- ===========================================================
+                    REMINDER SYSTEM
+============================================================ -->
+
+<section id="reminders" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-clock"></i>
+
+            Reminder System
+
+        </h2>
+
+        <p>
+
+            Automated reminders for pending claims, deadlines and follow-up actions.
+
+        </p>
+
+    </div>
+
+    <div class="reminder-container">
+
+        <!-- Pending Claim Reminder -->
+
+        <div class="reminder-card pending-card">
+
+            <div class="reminder-icon">
+
+                <i class="fa-solid fa-hourglass-half"></i>
+
+            </div>
+
+            <div class="reminder-content">
+
+                <h3>
+
+                    Pending Claim Reminder
+
+                </h3>
+
+                <p>
+
+                    Claim ID :
+                    <strong id="pendingClaim">
+
+                        C1021
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Patient :
+                    <strong id="pendingPatient">
+
+                        Rahul Sharma
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Status :
+                    <span class="pending-status">
+
+                        Pending
+
+                    </span>
+
+                </p>
+
+            </div>
+
+        </div>
+
+        <!-- Deadline Reminder -->
+
+        <div class="reminder-card deadline-card">
+
+            <div class="reminder-icon">
+
+                <i class="fa-solid fa-calendar-days"></i>
+
+            </div>
+
+            <div class="reminder-content">
+
+                <h3>
+
+                    Deadline Reminder
+
+                </h3>
+
+                <p>
+
+                    Claim ID :
+                    <strong id="deadlineClaim">
+
+                        C1045
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Due Date :
+                    <strong id="deadlineDate">
+
+                        30-06-2026
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Days Left :
+                    <span class="deadline-status">
+
+                        2 Days
+
+                    </span>
+
+                </p>
+
+            </div>
+
+        </div>
+
+        <!-- Follow-up Reminder -->
+
+        <div class="reminder-card followup-card">
+
+            <div class="reminder-icon">
+
+                <i class="fa-solid fa-phone-volume"></i>
+
+            </div>
+
+            <div class="reminder-content">
+
+                <h3>
+
+                    Follow-up Alert
+
+                </h3>
+
+                <p>
+
+                    Claim ID :
+                    <strong id="followupClaim">
+
+                        C1078
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Patient :
+                    <strong id="followupPatient">
+
+                        Amit Kumar
+
+                    </strong>
+
+                </p>
+
+                <p>
+
+                    Status :
+                    <span class="followup-status">
+
+                        Follow-up Pending
+
+                    </span>
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ===========================================================
+                REMINDER STATUS
+============================================================ -->
+
+<section id="reminderStatus" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-list-check"></i>
+
+            Reminder Status
+
+        </h2>
+
+        <p>
+
+            Monitor the current status of all reminder notifications.
+
+        </p>
+
+    </div>
+
+    <div class="history-table">
+
+        <table>
+
+            <thead>
+
+                <tr>
+
+                    <th>Status ID</th>
+
+                    <th>Claim ID</th>
+
+                    <th>Reminder Type</th>
+
+                    <th>Status</th>
+
+                    <th>Date</th>
+
+                    <th>Time</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody id="reminderStatusTable">
+
+                <tr>
+
+                    <td>RS001</td>
+
+                    <td>C1005</td>
+
+                    <td>Pending Reminder</td>
+
+                    <td>
+
+                        <span class="status-sent">
+
+                            Sent
+
+                        </span>
+
+                    </td>
+
+                    <td>28-06-2026</td>
+
+                    <td>10:15 AM</td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</section>
+
+<!-- ===========================================================
+                    ALERT HISTORY
+============================================================ -->
+
+<section id="history" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-file-lines"></i>
+
+            Alert History
+
+        </h2>
+
+        <p>
+
+            History of fraud alerts and administrator notifications.
+
+        </p>
+
+    </div>
+
+    <div class="history-table">
+
+        <table>
+
+            <thead>
+
+                <tr>
+
+                    <th>History ID</th>
+
+                    <th>Claim ID</th>
+
+                    <th>Patient ID</th>
+
+                    <th>Hospital ID</th>
+
+                    <th>Priority</th>
+
+                    <th>Status</th>
+
+                    <th>Date</th>
+
+                    <th>Time</th>
+
+                </tr>
+
+            </thead>
+
+            <tbody id="historyTable">
+
+                <tr>
+
+                    <td>H001</td>
+
+                    <td>C1052</td>
+
+                    <td>P214</td>
+
+                    <td>H007</td>
+
+                    <td>
+
+                        <span class="high-priority">
+
+                            HIGH
+
+                        </span>
+
+                    </td>
+
+                    <td>
+
+                        Unread
+
+                    </td>
+
+                    <td>
+
+                        28-06-2026
+
+                    </td>
+
+                    <td>
+
+                        10:45 AM
+
+                    </td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</section>
+<!-- ===========================================================
+                    FRAUD ALERT POPUP MODAL
+============================================================ -->
+
+<div id="alertModal" class="modal">
+
+    <div class="modal-content">
+
+        <div class="modal-header">
+
+            <i class="fa-solid fa-triangle-exclamation"></i>
+
+            <h2>
+
+                High Risk Fraud Alert
+
+            </h2>
+
+        </div>
+
+        <div class="modal-body">
+
+            <p>
+
+                A suspicious healthcare claim has been detected by the AI
+                Notification & Alert System.
+
+            </p>
+
+            <div class="modal-details">
+
+                <div>
+
+                    <span>Claim ID</span>
+
+                    <strong id="popupClaimId">
+
+                        C1052
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Patient ID</span>
+
+                    <strong id="popupPatientId">
+
+                        P214
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Hospital ID</span>
+
+                    <strong id="popupHospitalId">
+
+                        H007
+
+                    </strong>
+
+                </div>
+
+                <div>
+
+                    <span>Priority</span>
+
+                    <strong class="high-priority">
+
+                        HIGH
+
+                    </strong>
+
+                </div>
+
+            </div>
+
+            <div class="modal-message">
+
+                Immediate administrator action is required.
+
+            </div>
+
+        </div>
+
+        <div class="modal-footer">
+
+            <button id="closeModal" class="btn-secondary">
+
+                Close
+
+            </button>
+
+            <button id="reviewClaim" class="btn-primary">
+
+                Review Claim
+
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div class="bottom-nav">
+
+    <a href="../../member5_predictive_analytics/predictive.html">
+        &larr; Previous
+    </a>
+
+    <a href="../../member7_reports_document/report.html" class="next-btn">
+        Reports & Documentation &rarr;
+    </a>
+
+</div>
+
+<!-- ===========================================================
+                        FOOTER
+============================================================ -->
+
+<footer>
+
+    <p>
+
+        © 2026 Real-Time Healthcare Claims Analytics Portal with AI Insights
+
+    </p>
+
+</footer>
+
+<!-- ===========================================================
+                    JAVASCRIPT
+============================================================ -->
+
+<script src="script.js"></script>
+
+</body>
+
+</html>

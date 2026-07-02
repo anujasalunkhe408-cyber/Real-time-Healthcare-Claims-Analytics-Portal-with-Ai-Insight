@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Healthcare Claims Analytics Portal</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<link rel="stylesheet" href="analytics.css">
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+
+</div>
+
+</header>
+
+
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+<h3>MENU</h3>
+<ul>
+<li onclick="window.location.href='../member2_analytics_dashboard/analytics.html'">
+    📊 Analytics Dashboard
+</li>
+
+<li onclick="window.location.href='../member3_claim_manage/claim_submission.html'">
+  📄Claims Management
+</li>
+
+<li onclick="window.location.href='../member4_fraud_detect/frontend/dashboard.html'">
+    🤖 AI Fraud Detection
+</li>
+
+<li onclick="window.location.href='../member5_predictive_analytics/predictive.html'">
+    📈 Predictive Analytics
+</li>
+
+<li onclick="window.location.href='../member6_notification_alert/frontend/dashboard.html'">
+    🔔 Notifications & Alerts
+</li>
+
+<li onclick="window.location.href='../member7_reports_document/report.html'">
+    ☁️ Reports & Documentation
+</li>
+
+<li onclick="window.location.href='../member8_ai_recommdation/Airecom.html'">
+    🤖 AI Insights
+</li>
+</ul>
+</div>
+
+<!-- CONTENT -->
+<div class="content">
+
+<!-- DASHBOARD -->
+<div id="dashboard" class="section active">
+
+<!-- THEORY BOX -->
+<div class="theory-box">
+<h2>📘 Analytics Dashboard Theory</h2>
+
+<div class="theory-grid">
+
+<div class="theory-item">
+<h3>🎯 Purpose</h3>
+<p>Real-time monitoring and decision support system for healthcare claims.</p>
+</div>
+
+<div class="theory-item">
+<h3>📊 Functions</h3>
+<p>Claim tracking, hospital analysis, and trend visualization.</p>
+</div>
+
+<div class="theory-item">
+<h3>🤖 AI Role</h3>
+<p>Detect fraud patterns and predict claim approvals.</p>
+</div>
+
+<div class="theory-item">
+<h3>📈 Impact</h3>
+<p>Improves efficiency and reduces manual errors.</p>
+</div>
+
+<div class="theory-item">
+<h3>🔐 Security</h3>
+<p>Role-based authentication and secure data handling.</p>
+</div>
+
+</div>
+</div>
+
+<!-- CARDS -->
+<div class="cards">
+<div class="card">Total<br><h2>30</h2></div>
+<div class="card appr">Approved<br><h2>18</h2></div>
+<div class="card pend">Pending<br><h2>6</h2></div>
+<div class="card rej">Rejected<br><h2>6</h2></div>
+</div>
+
+
+<!-- FILTERS -->
+<div class="filters">
+<input id="search" onkeyup="filterTable()" placeholder="Search Patient / Hospital">
+
+<select id="status" onchange="filterTable()">
+<option value="">Status</option>
+<option value="approved">Approved</option>
+<option value="pending">Pending</option>
+<option value="rejected">Rejected</option>
+</select>
+
+<select id="dept" onchange="filterTable()">
+<option value="">Department</option>
+<option value="cardiology">Cardiology</option>
+<option value="neurology">Neurology</option>
+<option value="oncology">Oncology</option>
+<option value="orthopedics">Orthopedics</option>
+<option value="general medicine">General Medicine</option>
+<option value="ent">ENT</option>
+<option value="dermatology">Dermatology</option>
+<option value="nephrology">Nephrology</option>
+<option value="pediatrics">Pediatrics</option>
+<option value="pulmonology">Pulmonology</option>
+</select>
+
+<input type="date" id="date" onchange="filterTable()">
+<button onclick="clearFilters()">Clear</button>
+</div>
+
+<!-- CHARTS -->
+<div class="chart-box">
+<canvas id="pieChart"></canvas>
+</div>
+
+<div class="chart-box">
+<canvas id="barChart"></canvas>
+</div>
+
+<div class="chart-box">
+<canvas id="lineChart"></canvas>
+</div>
+
+<!-- TABLE -->
+<div class="card">
+<h2>📄 Claims Data (30 Records)</h2>
+
+<table>
+<tr>
+<th>ID</th><th>Name</th><th>Hospital</th><th>Dept</th><th>Amount</th><th>Status</th><th>Date</th>
+</tr>
+
+<!-- 30 RECORDS -->
+<!-- (same 30 records as your dataset) -->
+<!-- keeping short here for readability -->
+<tr><td>CL001</td><td>Rahul Patil</td><td>City Care</td><td>Cardiology</td><td>85000</td><td class="approved">Approved</td><td>2026-06-01</td></tr>
+<tr><td>CL002</td><td>Priya Sharma</td><td>Lifeline</td><td>Neurology</td><td>65000</td><td class="pending">Pending</td><td>2026-06-02</td></tr>
+<tr><td>CL003</td><td>Amit Verma</td><td>Sunshine</td><td>Orthopedics</td><td>120000</td><td class="rejected">Rejected</td><td>2026-06-03</td></tr>
+<tr><td>CL004</td><td>Sneha Joshi</td><td>Metro</td><td>General Medicine</td><td>25000</td><td class="approved">Approved</td><td>2026-06-04</td></tr>
+<tr><td>CL005</td><td>Rohan Kulkarni</td><td>City Care</td><td>Oncology</td><td>180000</td><td class="approved">Approved</td><td>2026-06-05</td></tr>
+
+<tr><td>CL006</td><td>Neha Patil</td><td>Lifeline</td><td>Cardiology</td><td>95000</td><td class="pending">Pending</td><td>2026-06-06</td></tr>
+<tr><td>CL007</td><td>Arjun Singh</td><td>Metro</td><td>Neurology</td><td>70000</td><td class="approved">Approved</td><td>2026-06-07</td></tr>
+<tr><td>CL008</td><td>Pooja Kale</td><td>Sunshine</td><td>Orthopedics</td><td>110000</td><td class="rejected">Rejected</td><td>2026-06-08</td></tr>
+<tr><td>CL009</td><td>Vikram Shah</td><td>City Care</td><td>Oncology</td><td>220000</td><td class="approved">Approved</td><td>2026-06-09</td></tr>
+<tr><td>CL010</td><td>Kavita More</td><td>Lifeline</td><td>General Medicine</td><td>30000</td><td class="approved">Approved</td><td>2026-06-10</td></tr>
+
+<tr><td>CL011</td><td>Rohit Deshmukh</td><td>Apex</td><td>Cardiology</td><td>135000</td><td class="approved">Approved</td><td>2026-06-11</td></tr>
+<tr><td>CL012</td><td>Anjali Patil</td><td>Global</td><td>Neurology</td><td>55000</td><td class="pending">Pending</td><td>2026-06-12</td></tr>
+<tr><td>CL013</td><td>Sagar Jadhav</td><td>Metro</td><td>Oncology</td><td>210000</td><td class="approved">Approved</td><td>2026-06-13</td></tr>
+<tr><td>CL014</td><td>Meera Joshi</td><td>Lifeline</td><td>Orthopedics</td><td>92000</td><td class="approved">Approved</td><td>2026-06-14</td></tr>
+<tr><td>CL015</td><td>Akash Pawar</td><td>Sunshine</td><td>General Medicine</td><td>45000</td><td class="rejected">Rejected</td><td>2026-06-15</td></tr>
+
+<tr><td>CL016</td><td>Nikita Patil</td><td>Hope</td><td>ENT</td><td>38000</td><td class="approved">Approved</td><td>2026-06-16</td></tr>
+<tr><td>CL017</td><td>Yash More</td><td>Apex</td><td>Dermatology</td><td>18000</td><td class="approved">Approved</td><td>2026-06-17</td></tr>
+<tr><td>CL018</td><td>Sonal Patil</td><td>City Care</td><td>Nephrology</td><td>82000</td><td class="pending">Pending</td><td>2026-06-18</td></tr>
+<tr><td>CL019</td><td>Harsh Kulkarni</td><td>Global</td><td>Pediatrics</td><td>60000</td><td class="approved">Approved</td><td>2026-06-19</td></tr>
+<tr><td>CL020</td><td>Komal Jadhav</td><td>Metro</td><td>Pulmonology</td><td>73000</td><td class="approved">Approved</td><td>2026-06-20</td></tr>
+
+<tr><td>CL021</td><td>Pratik Patil</td><td>Sunrise</td><td>Cardiology</td><td>98000</td><td class="approved">Approved</td><td>2026-06-21</td></tr>
+<tr><td>CL022</td><td>Vaishnavi Kale</td><td>Hope</td><td>Orthopedics</td><td>105000</td><td class="rejected">Rejected</td><td>2026-06-22</td></tr>
+<tr><td>CL023</td><td>Omkar Shinde</td><td>City Care</td><td>Neurology</td><td>88000</td><td class="approved">Approved</td><td>2026-06-23</td></tr>
+<tr><td>CL024</td><td>Shweta More</td><td>Metro</td><td>General Medicine</td><td>27000</td><td class="approved">Approved</td><td>2026-06-24</td></tr>
+<tr><td>CL025</td><td>Aditya Patil</td><td>Lifeline</td><td>Oncology</td><td>175000</td><td class="pending">Pending</td><td>2026-06-25</td></tr>
+
+<tr><td>CL026</td><td>Tejas Pawar</td><td>Global</td><td>ENT</td><td>40000</td><td class="approved">Approved</td><td>2026-06-26</td></tr>
+<tr><td>CL027</td><td>Priyanka Joshi</td><td>Sunshine</td><td>Dermatology</td><td>21000</td><td class="approved">Approved</td><td>2026-06-27</td></tr>
+<tr><td>CL028</td><td>Nikhil Shah</td><td>Apex</td><td>Nephrology</td><td>112000</td><td class="rejected">Rejected</td><td>2026-06-28</td></tr>
+<tr><td>CL029</td><td>Rutuja Patil</td><td>Hope</td><td>Pediatrics</td><td>52000</td><td class="approved">Approved</td><td>2026-06-29</td></tr>
+<tr><td>CL030</td><td>Sachin More</td><td>Metro</td><td>Pulmonology</td><td>68000</td><td class="approved">Approved</td><td>2026-06-30</td></tr>
+
+</table>
+
+</div>
+
+<!-- LAST NAVIGATION LINK -->
+<div class="bottom-nav">
+   <a href="../member3_claim_manage/claim_submission.html">
+        Claims Management ->
+    </a>
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<footer class="footer">
+
+    <p>
+
+        © 2026 All Rights Reserved Healthcare Claims Analytics Portal
+
+    </p>
+
+</footer>
+
+<script src="analytics.js"></script>
+
+</body>
+</html>

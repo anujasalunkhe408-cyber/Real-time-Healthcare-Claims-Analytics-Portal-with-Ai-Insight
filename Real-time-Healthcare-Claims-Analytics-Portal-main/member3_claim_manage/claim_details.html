@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claim Details</title>
+
+<link rel="stylesheet" href="claim.css">
+
+</head>
+<body>
+
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+
+</div>
+
+</header>
+
+<nav class="navbar">
+    <a href="claim_submission.html">Claim Submission</a>
+    <a href="claim_tracking.html">Claim Tracking</a>
+    <a href="claim_storage.html">Claim Storage</a>
+    <a href="claim_details.html">Claim Details</a>
+</nav>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+
+    <h3>MENU</h3>
+
+    <ul>
+
+        <li onclick="window.location.href='../member2_analytics_dashboard/analytics.html'">
+            📊 Analytics Dashboard
+        </li>
+
+        <li onclick="window.location.href='claim_submission.html'">
+            📄 Claims Management
+        </li>
+
+        <li onclick="window.location.href='../member4_fraud_detect/frontend/dashboard.html'">
+            🤖 AI Fraud Detection
+        </li>
+
+        <li onclick="window.location.href='../member5_predictive_analytics/predictive.html'">
+            📈 Predictive Analytics
+        </li>
+
+        <li onclick="window.location.href='../member6_notification_alert/frontend/dashboard.html'">
+            🔔 Notifications & Alerts
+        </li>
+
+        <li onclick="window.location.href='../member7_reports_document/report.html'">
+            ☁️ Reports & Documentation
+        </li>
+
+        <li onclick="window.location.href='../member8_ai_recommdation/Airecom.html'">
+            🤖 AI Insights
+        </li>
+
+    </ul>
+
+</div>
+
+<div class="container">
+
+<h1 class="section-title">Claim Details & Approval History</h1>
+
+<div class="stats">
+
+<div class="stat-box">
+<h2>CL009</h2>
+<p>Claim ID</p>
+</div>
+
+<div class="stat-box">
+<h2>Approved</h2>
+<p>Current Status</p>
+</div>
+
+<div class="stat-box">
+<h2>₹2,20,000</h2>
+<p>Claim Amount</p>
+</div>
+
+<div class="stat-box">
+<h2>09 Jun</h2>
+<p>Submission Date</p>
+</div>
+
+</div>
+
+<!-- Patient Information -->
+
+<div class="card">
+
+<h2>Patient Information</h2>
+
+<table>
+
+<tr>
+<th>Field</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Patient Name</td>
+<td>Vikram Shah</td>
+</tr>
+
+<tr>
+<td>Age</td>
+<td>45 Years</td>
+</tr>
+
+<tr>
+<td>Gender</td>
+<td>Male</td>
+</tr>
+
+<tr>
+<td>Mobile Number</td>
+<td>9876543210</td>
+</tr>
+
+<tr>
+<td>Insurance ID</td>
+<td>INS2026009</td>
+</tr>
+
+<tr>
+<td>Policy Type</td>
+<td>Premium Healthcare Plan</td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- Hospital Information -->
+
+<div class="card">
+
+<h2>Hospital Information</h2>
+
+<table>
+
+<tr>
+<th>Field</th>
+<th>Details</th>
+</tr>
+
+<tr>
+<td>Hospital Name</td>
+<td>City Care Hospital</td>
+</tr>
+
+<tr>
+<td>Department</td>
+<td>Oncology</td>
+</tr>
+
+<tr>
+<td>Doctor Name</td>
+<td>Dr. Rajesh Kulkarni</td>
+</tr>
+
+<tr>
+<td>Treatment Type</td>
+<td>Cancer Treatment</td>
+</tr>
+
+<tr>
+<td>Admission Date</td>
+<td>2026-06-01</td>
+</tr>
+
+<tr>
+<td>Discharge Date</td>
+<td>2026-06-08</td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- Claim Summary -->
+
+<div class="card">
+
+<h2>Claim Summary</h2>
+
+<p>
+Patient submitted claim for advanced oncology treatment.
+All required documents were verified successfully.
+Medical review completed and claim approved by insurance team.
+Payment processed and reimbursement initiated.
+</p>
+
+</div>
+
+<!-- Approval Timeline -->
+
+<div class="card">
+
+<h2>Approval Timeline</h2>
+
+<div class="timeline">
+
+<div class="timeline-item success">
+✓ Claim Submitted - 09 June 2026
+</div>
+
+<div class="timeline-item success">
+✓ Documents Verified - 10 June 2026
+</div>
+
+<div class="timeline-item success">
+✓ Medical Review Completed - 11 June 2026
+</div>
+
+<div class="timeline-item success">
+✓ Approval Granted - 12 June 2026
+</div>
+
+<div class="timeline-item success">
+✓ Payment Processed - 13 June 2026
+</div>
+
+</div>
+
+</div>
+
+<!-- Documents -->
+
+<div class="card">
+
+<h2>Uploaded Documents</h2>
+
+<table>
+
+<tr>
+<th>Document Name</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>Medical Bill.pdf</td>
+<td>Verified</td>
+</tr>
+
+<tr>
+<td>Prescription.pdf</td>
+<td>Verified</td>
+</tr>
+
+<tr>
+<td>Discharge Summary.pdf</td>
+<td>Verified</td>
+</tr>
+
+<tr>
+<td>Insurance Policy.pdf</td>
+<td>Verified</td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- Actions -->
+
+<div class="card">
+
+<h2>Actions</h2>
+
+<button class="btn" onclick="downloadPDF()">
+Download PDF Report
+</button>
+
+<br><br>
+
+<button class="btn print-btn" onclick="window.print()">
+Print Report
+</button>
+
+</div>
+
+<!-- Claim History -->
+
+<div class="card">
+
+<h2>Recent Claim History</h2>
+
+<table>
+
+<tr>
+<th>Claim ID</th>
+<th>Status</th>
+<th>Amount</th>
+</tr>
+
+<tr>
+<td>CL005</td>
+<td>Approved</td>
+<td>₹1,80,000</td>
+</tr>
+
+<tr>
+<td>CL007</td>
+<td>Approved</td>
+<td>₹70,000</td>
+</tr>
+
+<tr>
+<td>CL008</td>
+<td>Rejected</td>
+<td>₹1,10,000</td>
+</tr>
+
+<tr>
+<td>CL009</td>
+<td>Approved</td>
+<td>₹2,20,000</td>
+</tr>
+
+</table>
+
+</div>
+
+</div>
+
+<div class="bottom-nav">
+
+    <a href="../member2_analytics_dashboard/analytics.html">
+        &larr; Previous
+    </a>
+
+    <a href="../member4_fraud_detect/frontend/dashboard.html" class="next-btn">
+        Fraud Detection &rarr;
+    </a>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<footer class="footer" id="footer">
+
+<p>© 2026 All Rights Reserved Healthcare Claims Analytics Portal</p>
+
+</footer>
+
+</div>
+
+<script src="claim.js"></script>
+
+</body>
+</html>

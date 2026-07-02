@@ -1,0 +1,3706 @@
+[
+    {
+        "status_id": "RS001",
+        "claim_id": "C1000",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS002",
+        "claim_id": "C1001",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS003",
+        "claim_id": "C1005",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS004",
+        "claim_id": "C1007",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS005",
+        "claim_id": "C1008",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS006",
+        "claim_id": "C1010",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS007",
+        "claim_id": "C1012",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS008",
+        "claim_id": "C1014",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS009",
+        "claim_id": "C1016",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS010",
+        "claim_id": "C1019",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS011",
+        "claim_id": "C1021",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS012",
+        "claim_id": "C1022",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS013",
+        "claim_id": "C1025",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS014",
+        "claim_id": "C1029",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS015",
+        "claim_id": "C1030",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS016",
+        "claim_id": "C1036",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS017",
+        "claim_id": "C1037",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS018",
+        "claim_id": "C1039",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS019",
+        "claim_id": "C1040",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS020",
+        "claim_id": "C1044",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS021",
+        "claim_id": "C1045",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS022",
+        "claim_id": "C1049",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS023",
+        "claim_id": "C1051",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS024",
+        "claim_id": "C1053",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS025",
+        "claim_id": "C1056",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS026",
+        "claim_id": "C1060",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS027",
+        "claim_id": "C1063",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS028",
+        "claim_id": "C1068",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS029",
+        "claim_id": "C1070",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS030",
+        "claim_id": "C1079",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS031",
+        "claim_id": "C1080",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS032",
+        "claim_id": "C1081",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS033",
+        "claim_id": "C1082",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS034",
+        "claim_id": "C1083",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS035",
+        "claim_id": "C1084",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS036",
+        "claim_id": "C1085",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS037",
+        "claim_id": "C1086",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS038",
+        "claim_id": "C1087",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS039",
+        "claim_id": "C1088",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS040",
+        "claim_id": "C1091",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS041",
+        "claim_id": "C1092",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS042",
+        "claim_id": "C1096",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS043",
+        "claim_id": "C1098",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS044",
+        "claim_id": "C1105",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS045",
+        "claim_id": "C1107",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS046",
+        "claim_id": "C1109",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS047",
+        "claim_id": "C1110",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS048",
+        "claim_id": "C1111",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS049",
+        "claim_id": "C1112",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS050",
+        "claim_id": "C1113",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS051",
+        "claim_id": "C1114",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS052",
+        "claim_id": "C1115",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS053",
+        "claim_id": "C1116",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS054",
+        "claim_id": "C1117",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS055",
+        "claim_id": "C1119",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS056",
+        "claim_id": "C1121",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS057",
+        "claim_id": "C1122",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS058",
+        "claim_id": "C1123",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS059",
+        "claim_id": "C1124",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS060",
+        "claim_id": "C1128",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS061",
+        "claim_id": "C1131",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS062",
+        "claim_id": "C1134",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS063",
+        "claim_id": "C1147",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS064",
+        "claim_id": "C1148",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS065",
+        "claim_id": "C1149",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS066",
+        "claim_id": "C1152",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS067",
+        "claim_id": "C1153",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS068",
+        "claim_id": "C1156",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS069",
+        "claim_id": "C1160",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS070",
+        "claim_id": "C1165",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS071",
+        "claim_id": "C1168",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS072",
+        "claim_id": "C1172",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS073",
+        "claim_id": "C1173",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS074",
+        "claim_id": "C1174",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS075",
+        "claim_id": "C1175",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS076",
+        "claim_id": "C1177",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS077",
+        "claim_id": "C1178",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS078",
+        "claim_id": "C1184",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS079",
+        "claim_id": "C1195",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS080",
+        "claim_id": "C1205",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS081",
+        "claim_id": "C1221",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS082",
+        "claim_id": "C1222",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS083",
+        "claim_id": "C1225",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS084",
+        "claim_id": "C1226",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS085",
+        "claim_id": "C1234",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS086",
+        "claim_id": "C1239",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS087",
+        "claim_id": "C1253",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS088",
+        "claim_id": "C1261",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS089",
+        "claim_id": "C1262",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS090",
+        "claim_id": "C1265",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS091",
+        "claim_id": "C1267",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS092",
+        "claim_id": "C1270",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS093",
+        "claim_id": "C1275",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS094",
+        "claim_id": "C1279",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS095",
+        "claim_id": "C1280",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS096",
+        "claim_id": "C1282",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS097",
+        "claim_id": "C1286",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS098",
+        "claim_id": "C1287",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS099",
+        "claim_id": "C1288",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS100",
+        "claim_id": "C1294",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS101",
+        "claim_id": "C1295",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS102",
+        "claim_id": "C1298",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS103",
+        "claim_id": "C1303",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS104",
+        "claim_id": "C1309",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS105",
+        "claim_id": "C1311",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS106",
+        "claim_id": "C1313",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS107",
+        "claim_id": "C1316",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS108",
+        "claim_id": "C1317",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS109",
+        "claim_id": "C1319",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS110",
+        "claim_id": "C1320",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS111",
+        "claim_id": "C1326",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS112",
+        "claim_id": "C1327",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS113",
+        "claim_id": "C1328",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS114",
+        "claim_id": "C1330",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS115",
+        "claim_id": "C1332",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS116",
+        "claim_id": "C1333",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS117",
+        "claim_id": "C1334",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS118",
+        "claim_id": "C1335",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS119",
+        "claim_id": "C1339",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS120",
+        "claim_id": "C1340",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS121",
+        "claim_id": "C1341",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS122",
+        "claim_id": "C1346",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS123",
+        "claim_id": "C1354",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS124",
+        "claim_id": "C1355",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS125",
+        "claim_id": "C1359",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS126",
+        "claim_id": "C1360",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS127",
+        "claim_id": "C1364",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS128",
+        "claim_id": "C1366",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS129",
+        "claim_id": "C1368",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS130",
+        "claim_id": "C1370",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS131",
+        "claim_id": "C1371",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS132",
+        "claim_id": "C1372",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS133",
+        "claim_id": "C1373",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS134",
+        "claim_id": "C1374",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS135",
+        "claim_id": "C1377",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS136",
+        "claim_id": "C1378",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS137",
+        "claim_id": "C1382",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS138",
+        "claim_id": "C1383",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS139",
+        "claim_id": "C1384",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS140",
+        "claim_id": "C1385",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS141",
+        "claim_id": "C1398",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS142",
+        "claim_id": "C1399",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS143",
+        "claim_id": "C1400",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS144",
+        "claim_id": "C1401",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS145",
+        "claim_id": "C1406",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS146",
+        "claim_id": "C1410",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS147",
+        "claim_id": "C1412",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS148",
+        "claim_id": "C1415",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS149",
+        "claim_id": "C1417",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS150",
+        "claim_id": "C1420",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS151",
+        "claim_id": "C1421",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS152",
+        "claim_id": "C1423",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS153",
+        "claim_id": "C1425",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS154",
+        "claim_id": "C1426",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS155",
+        "claim_id": "C1427",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS156",
+        "claim_id": "C1428",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS157",
+        "claim_id": "C1434",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS158",
+        "claim_id": "C1435",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS159",
+        "claim_id": "C1443",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS160",
+        "claim_id": "C1445",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS161",
+        "claim_id": "C1449",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS162",
+        "claim_id": "C1450",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS163",
+        "claim_id": "C1452",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS164",
+        "claim_id": "C1453",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS165",
+        "claim_id": "C1454",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS166",
+        "claim_id": "C1455",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS167",
+        "claim_id": "C1461",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS168",
+        "claim_id": "C1467",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS169",
+        "claim_id": "C1470",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS170",
+        "claim_id": "C1471",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS171",
+        "claim_id": "C1472",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS172",
+        "claim_id": "C1475",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS173",
+        "claim_id": "C1482",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS174",
+        "claim_id": "C1485",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS175",
+        "claim_id": "C1486",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS176",
+        "claim_id": "C1488",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS177",
+        "claim_id": "C1489",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS178",
+        "claim_id": "C1490",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS179",
+        "claim_id": "C1492",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS180",
+        "claim_id": "C1498",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS181",
+        "claim_id": "C1500",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS182",
+        "claim_id": "C1506",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS183",
+        "claim_id": "C1509",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS184",
+        "claim_id": "C1514",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS185",
+        "claim_id": "C1515",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS186",
+        "claim_id": "C1520",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS187",
+        "claim_id": "C1527",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS188",
+        "claim_id": "C1538",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS189",
+        "claim_id": "C1539",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS190",
+        "claim_id": "C1542",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS191",
+        "claim_id": "C1545",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS192",
+        "claim_id": "C1546",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS193",
+        "claim_id": "C1550",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS194",
+        "claim_id": "C1557",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS195",
+        "claim_id": "C1560",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS196",
+        "claim_id": "C1562",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS197",
+        "claim_id": "C1571",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS198",
+        "claim_id": "C1572",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS199",
+        "claim_id": "C1581",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS200",
+        "claim_id": "C1582",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS201",
+        "claim_id": "C1583",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS202",
+        "claim_id": "C1588",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS203",
+        "claim_id": "C1591",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS204",
+        "claim_id": "C1594",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS205",
+        "claim_id": "C1596",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS206",
+        "claim_id": "C1597",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS207",
+        "claim_id": "C1600",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS208",
+        "claim_id": "C1612",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS209",
+        "claim_id": "C1616",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS210",
+        "claim_id": "C1617",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS211",
+        "claim_id": "C1618",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS212",
+        "claim_id": "C1631",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS213",
+        "claim_id": "C1633",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS214",
+        "claim_id": "C1636",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS215",
+        "claim_id": "C1641",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS216",
+        "claim_id": "C1642",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS217",
+        "claim_id": "C1649",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS218",
+        "claim_id": "C1651",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS219",
+        "claim_id": "C1652",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS220",
+        "claim_id": "C1653",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS221",
+        "claim_id": "C1654",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS222",
+        "claim_id": "C1656",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS223",
+        "claim_id": "C1659",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS224",
+        "claim_id": "C1665",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS225",
+        "claim_id": "C1668",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS226",
+        "claim_id": "C1674",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS227",
+        "claim_id": "C1680",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS228",
+        "claim_id": "C1681",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS229",
+        "claim_id": "C1682",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS230",
+        "claim_id": "C1684",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS231",
+        "claim_id": "C1685",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS232",
+        "claim_id": "C1690",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS233",
+        "claim_id": "C1694",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS234",
+        "claim_id": "C1695",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS235",
+        "claim_id": "C1699",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS236",
+        "claim_id": "C1703",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS237",
+        "claim_id": "C1706",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS238",
+        "claim_id": "C1707",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS239",
+        "claim_id": "C1710",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS240",
+        "claim_id": "C1711",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS241",
+        "claim_id": "C1719",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS242",
+        "claim_id": "C1720",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS243",
+        "claim_id": "C1722",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS244",
+        "claim_id": "C1723",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS245",
+        "claim_id": "C1724",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS246",
+        "claim_id": "C1726",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS247",
+        "claim_id": "C1730",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS248",
+        "claim_id": "C1733",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS249",
+        "claim_id": "C1735",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS250",
+        "claim_id": "C1736",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS251",
+        "claim_id": "C1742",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS252",
+        "claim_id": "C1743",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS253",
+        "claim_id": "C1744",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS254",
+        "claim_id": "C1745",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS255",
+        "claim_id": "C1751",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS256",
+        "claim_id": "C1767",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS257",
+        "claim_id": "C1770",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS258",
+        "claim_id": "C1771",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS259",
+        "claim_id": "C1774",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS260",
+        "claim_id": "C1776",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS261",
+        "claim_id": "C1780",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS262",
+        "claim_id": "C1792",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS263",
+        "claim_id": "C1795",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS264",
+        "claim_id": "C1798",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS265",
+        "claim_id": "C1803",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS266",
+        "claim_id": "C1804",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS267",
+        "claim_id": "C1809",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS268",
+        "claim_id": "C1815",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS269",
+        "claim_id": "C1816",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS270",
+        "claim_id": "C1820",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS271",
+        "claim_id": "C1821",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS272",
+        "claim_id": "C1822",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS273",
+        "claim_id": "C1826",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS274",
+        "claim_id": "C1829",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS275",
+        "claim_id": "C1833",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS276",
+        "claim_id": "C1835",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS277",
+        "claim_id": "C1841",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS278",
+        "claim_id": "C1844",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS279",
+        "claim_id": "C1846",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS280",
+        "claim_id": "C1854",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS281",
+        "claim_id": "C1857",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS282",
+        "claim_id": "C1864",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS283",
+        "claim_id": "C1869",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS284",
+        "claim_id": "C1870",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS285",
+        "claim_id": "C1875",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS286",
+        "claim_id": "C1877",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS287",
+        "claim_id": "C1887",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS288",
+        "claim_id": "C1889",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS289",
+        "claim_id": "C1890",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS290",
+        "claim_id": "C1895",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS291",
+        "claim_id": "C1897",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS292",
+        "claim_id": "C1899",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS293",
+        "claim_id": "C1901",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS294",
+        "claim_id": "C1902",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS295",
+        "claim_id": "C1904",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS296",
+        "claim_id": "C1906",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS297",
+        "claim_id": "C1909",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS298",
+        "claim_id": "C1910",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS299",
+        "claim_id": "C1911",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS300",
+        "claim_id": "C1919",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS301",
+        "claim_id": "C1921",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS302",
+        "claim_id": "C1923",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS303",
+        "claim_id": "C1926",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS304",
+        "claim_id": "C1930",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS305",
+        "claim_id": "C1932",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS306",
+        "claim_id": "C1937",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS307",
+        "claim_id": "C1943",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS308",
+        "claim_id": "C1946",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS309",
+        "claim_id": "C1948",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS310",
+        "claim_id": "C1953",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS311",
+        "claim_id": "C1966",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS312",
+        "claim_id": "C1968",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS313",
+        "claim_id": "C1971",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS314",
+        "claim_id": "C1972",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS315",
+        "claim_id": "C1974",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS316",
+        "claim_id": "C1975",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS317",
+        "claim_id": "C1977",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS318",
+        "claim_id": "C1978",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS319",
+        "claim_id": "C1982",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS320",
+        "claim_id": "C1984",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS321",
+        "claim_id": "C1985",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS322",
+        "claim_id": "C1987",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS323",
+        "claim_id": "C1988",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS324",
+        "claim_id": "C1989",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS325",
+        "claim_id": "C1995",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS326",
+        "claim_id": "C1999",
+        "type": "Pending Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS327",
+        "claim_id": "C1234",
+        "type": "Deadline Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS328",
+        "claim_id": "C1604",
+        "type": "Deadline Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS329",
+        "claim_id": "C1653",
+        "type": "Deadline Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS330",
+        "claim_id": "C1839",
+        "type": "Deadline Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS331",
+        "claim_id": "C1886",
+        "type": "Deadline Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS332",
+        "claim_id": "C1926",
+        "type": "Deadline Reminder",
+        "status": "Sent",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS333",
+        "claim_id": "C1007",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS334",
+        "claim_id": "C1010",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS335",
+        "claim_id": "C1021",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS336",
+        "claim_id": "C1025",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS337",
+        "claim_id": "C1030",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS338",
+        "claim_id": "C1036",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS339",
+        "claim_id": "C1040",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS340",
+        "claim_id": "C1045",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS341",
+        "claim_id": "C1049",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS342",
+        "claim_id": "C1051",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS343",
+        "claim_id": "C1060",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS344",
+        "claim_id": "C1063",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS345",
+        "claim_id": "C1068",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS346",
+        "claim_id": "C1080",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS347",
+        "claim_id": "C1084",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS348",
+        "claim_id": "C1085",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS349",
+        "claim_id": "C1087",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS350",
+        "claim_id": "C1092",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS351",
+        "claim_id": "C1096",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS352",
+        "claim_id": "C1098",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS353",
+        "claim_id": "C1107",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS354",
+        "claim_id": "C1109",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS355",
+        "claim_id": "C1110",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS356",
+        "claim_id": "C1111",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS357",
+        "claim_id": "C1112",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS358",
+        "claim_id": "C1117",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS359",
+        "claim_id": "C1121",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS360",
+        "claim_id": "C1124",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS361",
+        "claim_id": "C1128",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS362",
+        "claim_id": "C1131",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS363",
+        "claim_id": "C1147",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS364",
+        "claim_id": "C1148",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS365",
+        "claim_id": "C1149",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS366",
+        "claim_id": "C1153",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS367",
+        "claim_id": "C1160",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS368",
+        "claim_id": "C1173",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS369",
+        "claim_id": "C1184",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS370",
+        "claim_id": "C1226",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS371",
+        "claim_id": "C1261",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS372",
+        "claim_id": "C1262",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS373",
+        "claim_id": "C1267",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS374",
+        "claim_id": "C1286",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS375",
+        "claim_id": "C1288",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS376",
+        "claim_id": "C1294",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS377",
+        "claim_id": "C1298",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS378",
+        "claim_id": "C1316",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS379",
+        "claim_id": "C1319",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS380",
+        "claim_id": "C1328",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS381",
+        "claim_id": "C1332",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS382",
+        "claim_id": "C1354",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS383",
+        "claim_id": "C1359",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS384",
+        "claim_id": "C1364",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS385",
+        "claim_id": "C1366",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS386",
+        "claim_id": "C1374",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS387",
+        "claim_id": "C1377",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS388",
+        "claim_id": "C1382",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS389",
+        "claim_id": "C1383",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS390",
+        "claim_id": "C1398",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS391",
+        "claim_id": "C1400",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS392",
+        "claim_id": "C1401",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS393",
+        "claim_id": "C1412",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS394",
+        "claim_id": "C1415",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS395",
+        "claim_id": "C1421",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS396",
+        "claim_id": "C1434",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS397",
+        "claim_id": "C1449",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS398",
+        "claim_id": "C1453",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS399",
+        "claim_id": "C1454",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS400",
+        "claim_id": "C1467",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS401",
+        "claim_id": "C1470",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS402",
+        "claim_id": "C1475",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS403",
+        "claim_id": "C1486",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS404",
+        "claim_id": "C1506",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS405",
+        "claim_id": "C1515",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS406",
+        "claim_id": "C1520",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS407",
+        "claim_id": "C1539",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS408",
+        "claim_id": "C1557",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS409",
+        "claim_id": "C1562",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS410",
+        "claim_id": "C1572",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS411",
+        "claim_id": "C1591",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS412",
+        "claim_id": "C1594",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS413",
+        "claim_id": "C1596",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS414",
+        "claim_id": "C1612",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS415",
+        "claim_id": "C1616",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS416",
+        "claim_id": "C1617",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS417",
+        "claim_id": "C1631",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS418",
+        "claim_id": "C1633",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS419",
+        "claim_id": "C1649",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS420",
+        "claim_id": "C1652",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS421",
+        "claim_id": "C1656",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS422",
+        "claim_id": "C1665",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS423",
+        "claim_id": "C1668",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS424",
+        "claim_id": "C1681",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS425",
+        "claim_id": "C1682",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS426",
+        "claim_id": "C1685",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS427",
+        "claim_id": "C1690",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS428",
+        "claim_id": "C1694",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS429",
+        "claim_id": "C1711",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS430",
+        "claim_id": "C1720",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS431",
+        "claim_id": "C1724",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS432",
+        "claim_id": "C1742",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS433",
+        "claim_id": "C1744",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS434",
+        "claim_id": "C1745",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS435",
+        "claim_id": "C1751",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS436",
+        "claim_id": "C1770",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS437",
+        "claim_id": "C1795",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS438",
+        "claim_id": "C1804",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS439",
+        "claim_id": "C1816",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS440",
+        "claim_id": "C1821",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS441",
+        "claim_id": "C1822",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS442",
+        "claim_id": "C1833",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS443",
+        "claim_id": "C1844",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS444",
+        "claim_id": "C1864",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS445",
+        "claim_id": "C1877",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS446",
+        "claim_id": "C1887",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS447",
+        "claim_id": "C1897",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS448",
+        "claim_id": "C1902",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS449",
+        "claim_id": "C1909",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS450",
+        "claim_id": "C1919",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS451",
+        "claim_id": "C1921",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS452",
+        "claim_id": "C1937",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS453",
+        "claim_id": "C1946",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS454",
+        "claim_id": "C1948",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS455",
+        "claim_id": "C1968",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS456",
+        "claim_id": "C1972",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS457",
+        "claim_id": "C1975",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS458",
+        "claim_id": "C1977",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS459",
+        "claim_id": "C1978",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS460",
+        "claim_id": "C1982",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS461",
+        "claim_id": "C1985",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS462",
+        "claim_id": "C1989",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    },
+    {
+        "status_id": "RS463",
+        "claim_id": "C1995",
+        "type": "Follow-up Alert",
+        "status": "Pending",
+        "date": "28-06-2026",
+        "time": "15:44:14"
+    }
+]

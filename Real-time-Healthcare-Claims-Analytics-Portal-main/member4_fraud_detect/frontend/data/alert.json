@@ -1,0 +1,9 @@
+{
+    "claim_id":"C0015",
+    "patient_id":"P302",
+    "hospital_id":"H005",
+    "claim_amount":"₹185000",
+    "risk_score":90,
+    "status":"HIGH RISK",
+    "time":"27-06-2026 11:45 AM"
+}

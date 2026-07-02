@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Healthcare Claims AI Assistant</title>
+
+<link rel="stylesheet" href="style.css">
+
+
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+
+</div>
+
+</header>
+<!-- SIDEBAR -->
+<div class="sidebar">
+<h3>MENU</h3>
+<ul>
+<li onclick="window.location.href='../member2_analytics_dashboard/analytics.html'">
+    📊 Analytics Dashboard
+</li>
+
+<li onclick="window.location.href='../member3_claim_manage/claim_submission.html'">
+  📄Claims Management
+</li>
+
+<li onclick="window.location.href='../member4_fraud_detect/frontend/dashboard.html'">
+    🤖 AI Fraud Detection
+</li>
+
+<li onclick="window.location.href='../member5_predictive_analytics/predictive.html'">
+    📈 Predictive Analytics
+</li>
+
+<li onclick="window.location.href='../member6_notification_alert/frontend/dashboard.html'">
+    🔔 Notifications & Alerts
+</li>
+
+<li onclick="window.location.href='../member7_reports_document/report.html'">
+    ☁️ Reports & Documentation
+</li>
+
+<li onclick="window.location.href='../member8_ai_recommdation/Airecom.html'">
+    🤖 AI Insights
+</li>
+</ul>
+</div>
+
+
+<div class="container">
+
+
+
+<h2 class="ai-title">🤖 Healthcare Claims AI Assistant</h2>
+
+<p class="ai-subtitle">
+Ask anything about healthcare claims analytics
+</p>
+
+<div class="status">
+🔴 AI Recommendation Engine Active
+</div>
+
+<div class="quick-buttons">
+
+<button onclick="quickAsk('Claims Insights')">
+📊 Claims Insights
+</button>
+
+<button onclick="quickAsk('Fraud Detection')">
+⚠️ Fraud Detection
+</button>
+
+<button onclick="quickAsk('Cost Savings')">
+💰 Cost Savings
+</button>
+
+<button onclick="quickAsk('Rejected Claims')">
+❌ Rejected Claims
+</button>
+
+<button onclick="quickAsk('Provider Analysis')">
+🏥 Provider Analysis
+</button>
+
+<button onclick="quickAsk('Monthly Trends')">
+📈 Monthly Trends
+</button>
+
+</div>
+
+<div class="chat-container" id="chatBox">
+
+<div class="bot-message">
+<div class="bot-icon">🤖</div>
+
+<div class="message">
+
+👋 Hello! I'm your Healthcare Claims AI Assistant.
+
+<br><br>
+
+I can help you with:
+
+<ul>
+<li>📊 Claims Analytics Insights</li>
+<li>✅ Approved Claims Analysis</li>
+<li>❌ Rejected Claims Recommendations</li>
+<li>⚠️ Fraud Detection Alerts</li>
+<li>💰 Cost Optimization Suggestions</li>
+<li>📈 Monthly Claim Trends</li>
+<li>🏥 Provider Performance Analysis</li>
+<li>🤖 AI-Based Recommendations</li>
+</ul>
+
+<br>
+
+Ask me anything! 😊
+
+</div>
+</div>
+
+</div>
+
+<div class="input-area">
+
+<input
+type="text"
+id="userInput"
+placeholder="Ask about healthcare claims..."
+>
+
+<button onclick="sendMessage()">➤</button>
+
+</div>
+
+<div class="bottom-nav">
+
+    <a href="..\member7_reports_document\report.html">
+        &larr; Previous
+    </a>
+
+    <a href="../member1_user_registration\admin.html" class="next-btn">
+        Go TO Home &rarr;
+    </a>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<footer class="footer" id="footer">
+
+<p>© 2026 All Rights Reserved Healthcare Claims Analytics Portal</p>
+
+</footer>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

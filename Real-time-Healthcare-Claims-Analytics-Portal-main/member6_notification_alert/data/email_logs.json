@@ -1,0 +1,26 @@
+[
+    {
+        "patient_name": "Rahul Sharma",
+        "claim_id": "C1001",
+        "email": "rahul@gmail.com",
+        "status": "Approved",
+        "date": "28-06-2026",
+        "time": "14:02:35"
+    },
+    {
+        "patient_name": "Rahul Sharma",
+        "claim_id": "C1008",
+        "email": "rahul@gmail.com",
+        "status": "Rejected",
+        "date": "28-06-2026",
+        "time": "14:05:28"
+    },
+    {
+        "patient_name": "Rahul Sharma",
+        "claim_id": "C1015",
+        "email": "rahul@gmail.com",
+        "status": "Pending Verification",
+        "date": "28-06-2026",
+        "time": "14:07:22"
+    }
+]

@@ -1,0 +1,3382 @@
+[
+    {
+        "claim_id": "C1001",
+        "patient_id": "P605",
+        "hospital_id": "H009",
+        "claim_amount": 73869,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1005",
+        "patient_id": "P344",
+        "hospital_id": "H004",
+        "claim_amount": 136633,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1007",
+        "patient_id": "P600",
+        "hospital_id": "H003",
+        "claim_amount": 109887,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1011",
+        "patient_id": "P494",
+        "hospital_id": "H017",
+        "claim_amount": 135272,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1012",
+        "patient_id": "P989",
+        "hospital_id": "H001",
+        "claim_amount": 60714,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1013",
+        "patient_id": "P847",
+        "hospital_id": "H019",
+        "claim_amount": 175864,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1016",
+        "patient_id": "P542",
+        "hospital_id": "H012",
+        "claim_amount": 136473,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1017",
+        "patient_id": "P994",
+        "hospital_id": "H003",
+        "claim_amount": 171730,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1019",
+        "patient_id": "P125",
+        "hospital_id": "H002",
+        "claim_amount": 85212,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1021",
+        "patient_id": "P317",
+        "hospital_id": "H016",
+        "claim_amount": 133317,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1023",
+        "patient_id": "P411",
+        "hospital_id": "H007",
+        "claim_amount": 167652,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1027",
+        "patient_id": "P403",
+        "hospital_id": "H004",
+        "claim_amount": 117278,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1033",
+        "patient_id": "P983",
+        "hospital_id": "H013",
+        "claim_amount": 174663,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1034",
+        "patient_id": "P883",
+        "hospital_id": "H016",
+        "claim_amount": 52598,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1037",
+        "patient_id": "P325",
+        "hospital_id": "H017",
+        "claim_amount": 97931,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1038",
+        "patient_id": "P890",
+        "hospital_id": "H004",
+        "claim_amount": 131074,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1040",
+        "patient_id": "P224",
+        "hospital_id": "H006",
+        "claim_amount": 111707,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1041",
+        "patient_id": "P211",
+        "hospital_id": "H008",
+        "claim_amount": 175462,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1044",
+        "patient_id": "P347",
+        "hospital_id": "H009",
+        "claim_amount": 177420,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1047",
+        "patient_id": "P533",
+        "hospital_id": "H006",
+        "claim_amount": 148256,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1048",
+        "patient_id": "P795",
+        "hospital_id": "H014",
+        "claim_amount": 128814,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1052",
+        "patient_id": "P894",
+        "hospital_id": "H005",
+        "claim_amount": 106820,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1053",
+        "patient_id": "P237",
+        "hospital_id": "H013",
+        "claim_amount": 145905,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1057",
+        "patient_id": "P218",
+        "hospital_id": "H006",
+        "claim_amount": 115180,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1058",
+        "patient_id": "P128",
+        "hospital_id": "H016",
+        "claim_amount": 148405,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1065",
+        "patient_id": "P484",
+        "hospital_id": "H020",
+        "claim_amount": 42181,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1070",
+        "patient_id": "P151",
+        "hospital_id": "H007",
+        "claim_amount": 103390,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1071",
+        "patient_id": "P175",
+        "hospital_id": "H006",
+        "claim_amount": 132982,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1077",
+        "patient_id": "P468",
+        "hospital_id": "H005",
+        "claim_amount": 87749,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1078",
+        "patient_id": "P896",
+        "hospital_id": "H018",
+        "claim_amount": 79694,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1090",
+        "patient_id": "P323",
+        "hospital_id": "H009",
+        "claim_amount": 168711,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1095",
+        "patient_id": "P280",
+        "hospital_id": "H011",
+        "claim_amount": 141716,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1096",
+        "patient_id": "P731",
+        "hospital_id": "H012",
+        "claim_amount": 130910,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1098",
+        "patient_id": "P603",
+        "hospital_id": "H004",
+        "claim_amount": 179841,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1101",
+        "patient_id": "P633",
+        "hospital_id": "H015",
+        "claim_amount": 121110,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1108",
+        "patient_id": "P906",
+        "hospital_id": "H008",
+        "claim_amount": 150383,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1110",
+        "patient_id": "P340",
+        "hospital_id": "H012",
+        "claim_amount": 160149,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1111",
+        "patient_id": "P913",
+        "hospital_id": "H017",
+        "claim_amount": 170088,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1115",
+        "patient_id": "P507",
+        "hospital_id": "H007",
+        "claim_amount": 157684,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1118",
+        "patient_id": "P640",
+        "hospital_id": "H001",
+        "claim_amount": 153189,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1119",
+        "patient_id": "P459",
+        "hospital_id": "H007",
+        "claim_amount": 169241,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1131",
+        "patient_id": "P730",
+        "hospital_id": "H001",
+        "claim_amount": 166143,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1137",
+        "patient_id": "P627",
+        "hospital_id": "H018",
+        "claim_amount": 155466,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1138",
+        "patient_id": "P633",
+        "hospital_id": "H018",
+        "claim_amount": 128220,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1141",
+        "patient_id": "P810",
+        "hospital_id": "H001",
+        "claim_amount": 175143,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1154",
+        "patient_id": "P320",
+        "hospital_id": "H015",
+        "claim_amount": 131586,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1155",
+        "patient_id": "P583",
+        "hospital_id": "H005",
+        "claim_amount": 104193,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1164",
+        "patient_id": "P647",
+        "hospital_id": "H019",
+        "claim_amount": 79876,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1165",
+        "patient_id": "P205",
+        "hospital_id": "H006",
+        "claim_amount": 88763,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1168",
+        "patient_id": "P556",
+        "hospital_id": "H006",
+        "claim_amount": 156204,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1169",
+        "patient_id": "P659",
+        "hospital_id": "H018",
+        "claim_amount": 137781,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1175",
+        "patient_id": "P948",
+        "hospital_id": "H002",
+        "claim_amount": 154382,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1179",
+        "patient_id": "P139",
+        "hospital_id": "H019",
+        "claim_amount": 138014,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1182",
+        "patient_id": "P729",
+        "hospital_id": "H010",
+        "claim_amount": 147550,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1183",
+        "patient_id": "P233",
+        "hospital_id": "H017",
+        "claim_amount": 56827,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1185",
+        "patient_id": "P644",
+        "hospital_id": "H015",
+        "claim_amount": 139239,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1188",
+        "patient_id": "P824",
+        "hospital_id": "H008",
+        "claim_amount": 97329,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1189",
+        "patient_id": "P442",
+        "hospital_id": "H004",
+        "claim_amount": 86526,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1191",
+        "patient_id": "P119",
+        "hospital_id": "H011",
+        "claim_amount": 150797,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1192",
+        "patient_id": "P810",
+        "hospital_id": "H001",
+        "claim_amount": 85149,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1193",
+        "patient_id": "P724",
+        "hospital_id": "H005",
+        "claim_amount": 116792,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1194",
+        "patient_id": "P859",
+        "hospital_id": "H006",
+        "claim_amount": 117240,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1196",
+        "patient_id": "P142",
+        "hospital_id": "H016",
+        "claim_amount": 143878,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1197",
+        "patient_id": "P737",
+        "hospital_id": "H010",
+        "claim_amount": 177893,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1201",
+        "patient_id": "P666",
+        "hospital_id": "H016",
+        "claim_amount": 163315,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1202",
+        "patient_id": "P628",
+        "hospital_id": "H013",
+        "claim_amount": 117722,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1204",
+        "patient_id": "P319",
+        "hospital_id": "H015",
+        "claim_amount": 179068,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1207",
+        "patient_id": "P688",
+        "hospital_id": "H001",
+        "claim_amount": 103056,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1208",
+        "patient_id": "P287",
+        "hospital_id": "H012",
+        "claim_amount": 68567,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1210",
+        "patient_id": "P730",
+        "hospital_id": "H001",
+        "claim_amount": 136137,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1211",
+        "patient_id": "P374",
+        "hospital_id": "H019",
+        "claim_amount": 108306,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1215",
+        "patient_id": "P234",
+        "hospital_id": "H012",
+        "claim_amount": 153318,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1221",
+        "patient_id": "P730",
+        "hospital_id": "H008",
+        "claim_amount": 64151,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1225",
+        "patient_id": "P419",
+        "hospital_id": "H005",
+        "claim_amount": 59204,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1226",
+        "patient_id": "P788",
+        "hospital_id": "H002",
+        "claim_amount": 157636,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1227",
+        "patient_id": "P599",
+        "hospital_id": "H009",
+        "claim_amount": 155098,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1228",
+        "patient_id": "P939",
+        "hospital_id": "H003",
+        "claim_amount": 162889,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1229",
+        "patient_id": "P876",
+        "hospital_id": "H013",
+        "claim_amount": 88568,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1230",
+        "patient_id": "P353",
+        "hospital_id": "H014",
+        "claim_amount": 92727,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1231",
+        "patient_id": "P676",
+        "hospital_id": "H001",
+        "claim_amount": 76210,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1233",
+        "patient_id": "P122",
+        "hospital_id": "H008",
+        "claim_amount": 143652,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1249",
+        "patient_id": "P572",
+        "hospital_id": "H004",
+        "claim_amount": 140720,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1250",
+        "patient_id": "P536",
+        "hospital_id": "H015",
+        "claim_amount": 140302,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1253",
+        "patient_id": "P328",
+        "hospital_id": "H005",
+        "claim_amount": 112558,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1255",
+        "patient_id": "P567",
+        "hospital_id": "H012",
+        "claim_amount": 27577,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1258",
+        "patient_id": "P235",
+        "hospital_id": "H005",
+        "claim_amount": 126107,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1259",
+        "patient_id": "P863",
+        "hospital_id": "H004",
+        "claim_amount": 105248,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1264",
+        "patient_id": "P129",
+        "hospital_id": "H001",
+        "claim_amount": 109247,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1266",
+        "patient_id": "P572",
+        "hospital_id": "H003",
+        "claim_amount": 20303,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1269",
+        "patient_id": "P234",
+        "hospital_id": "H004",
+        "claim_amount": 125103,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1271",
+        "patient_id": "P401",
+        "hospital_id": "H015",
+        "claim_amount": 158081,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1276",
+        "patient_id": "P758",
+        "hospital_id": "H005",
+        "claim_amount": 135970,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1278",
+        "patient_id": "P802",
+        "hospital_id": "H009",
+        "claim_amount": 81978,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1279",
+        "patient_id": "P528",
+        "hospital_id": "H012",
+        "claim_amount": 135020,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1288",
+        "patient_id": "P406",
+        "hospital_id": "H014",
+        "claim_amount": 129186,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1293",
+        "patient_id": "P790",
+        "hospital_id": "H016",
+        "claim_amount": 95094,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1294",
+        "patient_id": "P756",
+        "hospital_id": "H014",
+        "claim_amount": 81875,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1298",
+        "patient_id": "P775",
+        "hospital_id": "H019",
+        "claim_amount": 117771,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1302",
+        "patient_id": "P521",
+        "hospital_id": "H011",
+        "claim_amount": 176770,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1305",
+        "patient_id": "P133",
+        "hospital_id": "H005",
+        "claim_amount": 86047,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1307",
+        "patient_id": "P355",
+        "hospital_id": "H003",
+        "claim_amount": 145608,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1308",
+        "patient_id": "P211",
+        "hospital_id": "H009",
+        "claim_amount": 75868,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1311",
+        "patient_id": "P325",
+        "hospital_id": "H003",
+        "claim_amount": 110128,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1314",
+        "patient_id": "P902",
+        "hospital_id": "H001",
+        "claim_amount": 118717,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1315",
+        "patient_id": "P253",
+        "hospital_id": "H007",
+        "claim_amount": 30956,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1317",
+        "patient_id": "P589",
+        "hospital_id": "H001",
+        "claim_amount": 92684,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1319",
+        "patient_id": "P285",
+        "hospital_id": "H016",
+        "claim_amount": 64346,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1321",
+        "patient_id": "P325",
+        "hospital_id": "H010",
+        "claim_amount": 148122,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1323",
+        "patient_id": "P224",
+        "hospital_id": "H019",
+        "claim_amount": 120636,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1324",
+        "patient_id": "P143",
+        "hospital_id": "H001",
+        "claim_amount": 61153,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1326",
+        "patient_id": "P127",
+        "hospital_id": "H002",
+        "claim_amount": 25025,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1327",
+        "patient_id": "P593",
+        "hospital_id": "H011",
+        "claim_amount": 85572,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1332",
+        "patient_id": "P321",
+        "hospital_id": "H020",
+        "claim_amount": 111541,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1343",
+        "patient_id": "P131",
+        "hospital_id": "H009",
+        "claim_amount": 130713,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1347",
+        "patient_id": "P252",
+        "hospital_id": "H018",
+        "claim_amount": 109744,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1353",
+        "patient_id": "P656",
+        "hospital_id": "H003",
+        "claim_amount": 81926,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1357",
+        "patient_id": "P819",
+        "hospital_id": "H003",
+        "claim_amount": 55561,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1360",
+        "patient_id": "P282",
+        "hospital_id": "H006",
+        "claim_amount": 176961,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1362",
+        "patient_id": "P524",
+        "hospital_id": "H017",
+        "claim_amount": 153743,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1364",
+        "patient_id": "P916",
+        "hospital_id": "H020",
+        "claim_amount": 150726,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1367",
+        "patient_id": "P415",
+        "hospital_id": "H012",
+        "claim_amount": 143736,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1368",
+        "patient_id": "P582",
+        "hospital_id": "H007",
+        "claim_amount": 154045,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1372",
+        "patient_id": "P552",
+        "hospital_id": "H001",
+        "claim_amount": 71808,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1376",
+        "patient_id": "P897",
+        "hospital_id": "H009",
+        "claim_amount": 55396,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1378",
+        "patient_id": "P756",
+        "hospital_id": "H018",
+        "claim_amount": 114150,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1380",
+        "patient_id": "P937",
+        "hospital_id": "H017",
+        "claim_amount": 129647,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1385",
+        "patient_id": "P484",
+        "hospital_id": "H020",
+        "claim_amount": 167768,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1390",
+        "patient_id": "P625",
+        "hospital_id": "H015",
+        "claim_amount": 166216,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1392",
+        "patient_id": "P798",
+        "hospital_id": "H004",
+        "claim_amount": 162726,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1396",
+        "patient_id": "P167",
+        "hospital_id": "H006",
+        "claim_amount": 104550,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1397",
+        "patient_id": "P144",
+        "hospital_id": "H019",
+        "claim_amount": 174437,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1400",
+        "patient_id": "P251",
+        "hospital_id": "H011",
+        "claim_amount": 167525,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1401",
+        "patient_id": "P327",
+        "hospital_id": "H012",
+        "claim_amount": 148188,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1412",
+        "patient_id": "P716",
+        "hospital_id": "H004",
+        "claim_amount": 169652,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1417",
+        "patient_id": "P624",
+        "hospital_id": "H017",
+        "claim_amount": 125468,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1421",
+        "patient_id": "P283",
+        "hospital_id": "H019",
+        "claim_amount": 144659,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1423",
+        "patient_id": "P336",
+        "hospital_id": "H016",
+        "claim_amount": 112717,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1424",
+        "patient_id": "P837",
+        "hospital_id": "H017",
+        "claim_amount": 86413,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1425",
+        "patient_id": "P248",
+        "hospital_id": "H019",
+        "claim_amount": 116849,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1427",
+        "patient_id": "P502",
+        "hospital_id": "H011",
+        "claim_amount": 84014,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1430",
+        "patient_id": "P916",
+        "hospital_id": "H015",
+        "claim_amount": 85401,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1435",
+        "patient_id": "P674",
+        "hospital_id": "H001",
+        "claim_amount": 149965,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1443",
+        "patient_id": "P833",
+        "hospital_id": "H011",
+        "claim_amount": 41915,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1444",
+        "patient_id": "P671",
+        "hospital_id": "H004",
+        "claim_amount": 173953,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1445",
+        "patient_id": "P843",
+        "hospital_id": "H003",
+        "claim_amount": 82097,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1448",
+        "patient_id": "P572",
+        "hospital_id": "H008",
+        "claim_amount": 62346,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1451",
+        "patient_id": "P986",
+        "hospital_id": "H007",
+        "claim_amount": 151910,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1454",
+        "patient_id": "P693",
+        "hospital_id": "H008",
+        "claim_amount": 88515,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1455",
+        "patient_id": "P794",
+        "hospital_id": "H003",
+        "claim_amount": 168639,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1457",
+        "patient_id": "P726",
+        "hospital_id": "H002",
+        "claim_amount": 116942,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1459",
+        "patient_id": "P691",
+        "hospital_id": "H019",
+        "claim_amount": 119876,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1460",
+        "patient_id": "P821",
+        "hospital_id": "H009",
+        "claim_amount": 160726,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1463",
+        "patient_id": "P711",
+        "hospital_id": "H005",
+        "claim_amount": 82428,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1464",
+        "patient_id": "P606",
+        "hospital_id": "H004",
+        "claim_amount": 131895,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1465",
+        "patient_id": "P213",
+        "hospital_id": "H020",
+        "claim_amount": 54628,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1466",
+        "patient_id": "P820",
+        "hospital_id": "H006",
+        "claim_amount": 127295,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1467",
+        "patient_id": "P889",
+        "hospital_id": "H018",
+        "claim_amount": 84180,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1480",
+        "patient_id": "P635",
+        "hospital_id": "H011",
+        "claim_amount": 131412,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1481",
+        "patient_id": "P325",
+        "hospital_id": "H012",
+        "claim_amount": 96839,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1484",
+        "patient_id": "P416",
+        "hospital_id": "H013",
+        "claim_amount": 59791,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1487",
+        "patient_id": "P780",
+        "hospital_id": "H020",
+        "claim_amount": 145637,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1488",
+        "patient_id": "P163",
+        "hospital_id": "H010",
+        "claim_amount": 175316,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1491",
+        "patient_id": "P164",
+        "hospital_id": "H016",
+        "claim_amount": 129640,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1495",
+        "patient_id": "P920",
+        "hospital_id": "H015",
+        "claim_amount": 172130,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1497",
+        "patient_id": "P746",
+        "hospital_id": "H003",
+        "claim_amount": 92021,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1502",
+        "patient_id": "P455",
+        "hospital_id": "H017",
+        "claim_amount": 172116,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1503",
+        "patient_id": "P778",
+        "hospital_id": "H009",
+        "claim_amount": 55549,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1504",
+        "patient_id": "P571",
+        "hospital_id": "H019",
+        "claim_amount": 114293,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1511",
+        "patient_id": "P478",
+        "hospital_id": "H012",
+        "claim_amount": 178710,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1512",
+        "patient_id": "P793",
+        "hospital_id": "H017",
+        "claim_amount": 178132,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1516",
+        "patient_id": "P653",
+        "hospital_id": "H011",
+        "claim_amount": 59804,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1518",
+        "patient_id": "P706",
+        "hospital_id": "H011",
+        "claim_amount": 74407,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1519",
+        "patient_id": "P678",
+        "hospital_id": "H015",
+        "claim_amount": 159137,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1520",
+        "patient_id": "P172",
+        "hospital_id": "H010",
+        "claim_amount": 107978,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1523",
+        "patient_id": "P919",
+        "hospital_id": "H019",
+        "claim_amount": 84858,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1527",
+        "patient_id": "P204",
+        "hospital_id": "H018",
+        "claim_amount": 128686,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1528",
+        "patient_id": "P593",
+        "hospital_id": "H006",
+        "claim_amount": 129427,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1529",
+        "patient_id": "P341",
+        "hospital_id": "H010",
+        "claim_amount": 98097,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1530",
+        "patient_id": "P428",
+        "hospital_id": "H003",
+        "claim_amount": 160200,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1534",
+        "patient_id": "P100",
+        "hospital_id": "H003",
+        "claim_amount": 48770,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1537",
+        "patient_id": "P858",
+        "hospital_id": "H020",
+        "claim_amount": 158199,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1539",
+        "patient_id": "P812",
+        "hospital_id": "H008",
+        "claim_amount": 147814,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1541",
+        "patient_id": "P483",
+        "hospital_id": "H008",
+        "claim_amount": 69867,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1544",
+        "patient_id": "P796",
+        "hospital_id": "H014",
+        "claim_amount": 143441,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1546",
+        "patient_id": "P179",
+        "hospital_id": "H011",
+        "claim_amount": 68988,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1548",
+        "patient_id": "P444",
+        "hospital_id": "H011",
+        "claim_amount": 105175,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1556",
+        "patient_id": "P828",
+        "hospital_id": "H006",
+        "claim_amount": 88002,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1561",
+        "patient_id": "P866",
+        "hospital_id": "H007",
+        "claim_amount": 177219,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1564",
+        "patient_id": "P984",
+        "hospital_id": "H001",
+        "claim_amount": 129674,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1566",
+        "patient_id": "P887",
+        "hospital_id": "H014",
+        "claim_amount": 119213,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1567",
+        "patient_id": "P148",
+        "hospital_id": "H001",
+        "claim_amount": 174809,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1571",
+        "patient_id": "P278",
+        "hospital_id": "H004",
+        "claim_amount": 174107,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1573",
+        "patient_id": "P953",
+        "hospital_id": "H017",
+        "claim_amount": 128502,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1577",
+        "patient_id": "P392",
+        "hospital_id": "H011",
+        "claim_amount": 176512,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1581",
+        "patient_id": "P370",
+        "hospital_id": "H001",
+        "claim_amount": 80500,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1584",
+        "patient_id": "P597",
+        "hospital_id": "H017",
+        "claim_amount": 112104,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1585",
+        "patient_id": "P342",
+        "hospital_id": "H006",
+        "claim_amount": 141607,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1589",
+        "patient_id": "P864",
+        "hospital_id": "H020",
+        "claim_amount": 131340,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1590",
+        "patient_id": "P593",
+        "hospital_id": "H008",
+        "claim_amount": 156919,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1593",
+        "patient_id": "P764",
+        "hospital_id": "H002",
+        "claim_amount": 152741,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1595",
+        "patient_id": "P460",
+        "hospital_id": "H020",
+        "claim_amount": 76130,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1599",
+        "patient_id": "P310",
+        "hospital_id": "H006",
+        "claim_amount": 108697,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1601",
+        "patient_id": "P876",
+        "hospital_id": "H008",
+        "claim_amount": 141122,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1602",
+        "patient_id": "P991",
+        "hospital_id": "H016",
+        "claim_amount": 171982,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1605",
+        "patient_id": "P932",
+        "hospital_id": "H016",
+        "claim_amount": 50291,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1607",
+        "patient_id": "P981",
+        "hospital_id": "H019",
+        "claim_amount": 159227,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1609",
+        "patient_id": "P564",
+        "hospital_id": "H014",
+        "claim_amount": 158593,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1613",
+        "patient_id": "P325",
+        "hospital_id": "H017",
+        "claim_amount": 117222,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1614",
+        "patient_id": "P669",
+        "hospital_id": "H011",
+        "claim_amount": 67535,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1617",
+        "patient_id": "P880",
+        "hospital_id": "H004",
+        "claim_amount": 145798,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1618",
+        "patient_id": "P651",
+        "hospital_id": "H009",
+        "claim_amount": 172524,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1620",
+        "patient_id": "P544",
+        "hospital_id": "H017",
+        "claim_amount": 139599,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1621",
+        "patient_id": "P582",
+        "hospital_id": "H018",
+        "claim_amount": 128145,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1623",
+        "patient_id": "P698",
+        "hospital_id": "H011",
+        "claim_amount": 116120,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1626",
+        "patient_id": "P678",
+        "hospital_id": "H002",
+        "claim_amount": 72102,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1633",
+        "patient_id": "P683",
+        "hospital_id": "H001",
+        "claim_amount": 96308,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1637",
+        "patient_id": "P207",
+        "hospital_id": "H006",
+        "claim_amount": 157908,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1638",
+        "patient_id": "P711",
+        "hospital_id": "H014",
+        "claim_amount": 137080,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1639",
+        "patient_id": "P629",
+        "hospital_id": "H012",
+        "claim_amount": 175351,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1640",
+        "patient_id": "P110",
+        "hospital_id": "H014",
+        "claim_amount": 148827,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1643",
+        "patient_id": "P111",
+        "hospital_id": "H002",
+        "claim_amount": 76635,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1656",
+        "patient_id": "P525",
+        "hospital_id": "H017",
+        "claim_amount": 145298,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1658",
+        "patient_id": "P197",
+        "hospital_id": "H002",
+        "claim_amount": 66790,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1659",
+        "patient_id": "P864",
+        "hospital_id": "H007",
+        "claim_amount": 146647,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1660",
+        "patient_id": "P681",
+        "hospital_id": "H002",
+        "claim_amount": 144685,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1661",
+        "patient_id": "P197",
+        "hospital_id": "H003",
+        "claim_amount": 118088,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1664",
+        "patient_id": "P687",
+        "hospital_id": "H020",
+        "claim_amount": 86935,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1665",
+        "patient_id": "P896",
+        "hospital_id": "H004",
+        "claim_amount": 100515,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1667",
+        "patient_id": "P908",
+        "hospital_id": "H012",
+        "claim_amount": 179985,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1670",
+        "patient_id": "P933",
+        "hospital_id": "H002",
+        "claim_amount": 111637,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1671",
+        "patient_id": "P786",
+        "hospital_id": "H018",
+        "claim_amount": 139053,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1673",
+        "patient_id": "P114",
+        "hospital_id": "H011",
+        "claim_amount": 112290,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1675",
+        "patient_id": "P888",
+        "hospital_id": "H008",
+        "claim_amount": 155089,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1677",
+        "patient_id": "P333",
+        "hospital_id": "H006",
+        "claim_amount": 76642,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1681",
+        "patient_id": "P143",
+        "hospital_id": "H016",
+        "claim_amount": 34849,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1682",
+        "patient_id": "P232",
+        "hospital_id": "H005",
+        "claim_amount": 58081,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1686",
+        "patient_id": "P453",
+        "hospital_id": "H010",
+        "claim_amount": 133266,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1687",
+        "patient_id": "P346",
+        "hospital_id": "H004",
+        "claim_amount": 142341,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1690",
+        "patient_id": "P267",
+        "hospital_id": "H013",
+        "claim_amount": 98867,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1698",
+        "patient_id": "P845",
+        "hospital_id": "H001",
+        "claim_amount": 135660,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1699",
+        "patient_id": "P934",
+        "hospital_id": "H010",
+        "claim_amount": 139263,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1700",
+        "patient_id": "P579",
+        "hospital_id": "H007",
+        "claim_amount": 140767,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1701",
+        "patient_id": "P414",
+        "hospital_id": "H006",
+        "claim_amount": 177178,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1702",
+        "patient_id": "P551",
+        "hospital_id": "H003",
+        "claim_amount": 122026,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1703",
+        "patient_id": "P756",
+        "hospital_id": "H011",
+        "claim_amount": 52414,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1706",
+        "patient_id": "P322",
+        "hospital_id": "H015",
+        "claim_amount": 110974,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1713",
+        "patient_id": "P118",
+        "hospital_id": "H018",
+        "claim_amount": 158627,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1714",
+        "patient_id": "P966",
+        "hospital_id": "H010",
+        "claim_amount": 125358,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1717",
+        "patient_id": "P280",
+        "hospital_id": "H002",
+        "claim_amount": 103644,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1718",
+        "patient_id": "P688",
+        "hospital_id": "H007",
+        "claim_amount": 75809,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1719",
+        "patient_id": "P406",
+        "hospital_id": "H011",
+        "claim_amount": 167308,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1724",
+        "patient_id": "P617",
+        "hospital_id": "H010",
+        "claim_amount": 127345,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1733",
+        "patient_id": "P899",
+        "hospital_id": "H014",
+        "claim_amount": 140762,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1736",
+        "patient_id": "P714",
+        "hospital_id": "H007",
+        "claim_amount": 156340,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1742",
+        "patient_id": "P892",
+        "hospital_id": "H008",
+        "claim_amount": 149555,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1744",
+        "patient_id": "P410",
+        "hospital_id": "H005",
+        "claim_amount": 154870,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1748",
+        "patient_id": "P401",
+        "hospital_id": "H007",
+        "claim_amount": 144863,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1749",
+        "patient_id": "P533",
+        "hospital_id": "H015",
+        "claim_amount": 163692,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1758",
+        "patient_id": "P757",
+        "hospital_id": "H019",
+        "claim_amount": 124317,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1760",
+        "patient_id": "P243",
+        "hospital_id": "H008",
+        "claim_amount": 178924,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1763",
+        "patient_id": "P984",
+        "hospital_id": "H011",
+        "claim_amount": 128688,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1764",
+        "patient_id": "P391",
+        "hospital_id": "H015",
+        "claim_amount": 161490,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1768",
+        "patient_id": "P101",
+        "hospital_id": "H006",
+        "claim_amount": 153903,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1776",
+        "patient_id": "P289",
+        "hospital_id": "H008",
+        "claim_amount": 49130,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1780",
+        "patient_id": "P683",
+        "hospital_id": "H017",
+        "claim_amount": 163844,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1784",
+        "patient_id": "P255",
+        "hospital_id": "H019",
+        "claim_amount": 137778,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1785",
+        "patient_id": "P962",
+        "hospital_id": "H011",
+        "claim_amount": 33962,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1787",
+        "patient_id": "P831",
+        "hospital_id": "H009",
+        "claim_amount": 65343,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1789",
+        "patient_id": "P548",
+        "hospital_id": "H002",
+        "claim_amount": 144443,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1790",
+        "patient_id": "P564",
+        "hospital_id": "H012",
+        "claim_amount": 173722,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1793",
+        "patient_id": "P808",
+        "hospital_id": "H006",
+        "claim_amount": 124616,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1797",
+        "patient_id": "P249",
+        "hospital_id": "H018",
+        "claim_amount": 94072,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1800",
+        "patient_id": "P302",
+        "hospital_id": "H002",
+        "claim_amount": 160424,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1801",
+        "patient_id": "P143",
+        "hospital_id": "H007",
+        "claim_amount": 99328,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1803",
+        "patient_id": "P690",
+        "hospital_id": "H019",
+        "claim_amount": 138653,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1804",
+        "patient_id": "P509",
+        "hospital_id": "H008",
+        "claim_amount": 142259,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1805",
+        "patient_id": "P101",
+        "hospital_id": "H003",
+        "claim_amount": 112212,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1807",
+        "patient_id": "P227",
+        "hospital_id": "H013",
+        "claim_amount": 58247,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1808",
+        "patient_id": "P989",
+        "hospital_id": "H004",
+        "claim_amount": 150886,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1815",
+        "patient_id": "P683",
+        "hospital_id": "H009",
+        "claim_amount": 172383,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1818",
+        "patient_id": "P475",
+        "hospital_id": "H008",
+        "claim_amount": 124889,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1822",
+        "patient_id": "P549",
+        "hospital_id": "H015",
+        "claim_amount": 114428,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1829",
+        "patient_id": "P126",
+        "hospital_id": "H015",
+        "claim_amount": 179037,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1830",
+        "patient_id": "P185",
+        "hospital_id": "H008",
+        "claim_amount": 108823,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1833",
+        "patient_id": "P334",
+        "hospital_id": "H012",
+        "claim_amount": 125093,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1835",
+        "patient_id": "P528",
+        "hospital_id": "H017",
+        "claim_amount": 174807,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1842",
+        "patient_id": "P199",
+        "hospital_id": "H020",
+        "claim_amount": 37710,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1843",
+        "patient_id": "P687",
+        "hospital_id": "H008",
+        "claim_amount": 123786,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1844",
+        "patient_id": "P933",
+        "hospital_id": "H016",
+        "claim_amount": 132487,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1849",
+        "patient_id": "P903",
+        "hospital_id": "H002",
+        "claim_amount": 170375,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1853",
+        "patient_id": "P309",
+        "hospital_id": "H001",
+        "claim_amount": 140665,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1856",
+        "patient_id": "P471",
+        "hospital_id": "H009",
+        "claim_amount": 77468,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1859",
+        "patient_id": "P975",
+        "hospital_id": "H001",
+        "claim_amount": 92745,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1861",
+        "patient_id": "P753",
+        "hospital_id": "H009",
+        "claim_amount": 156460,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1865",
+        "patient_id": "P724",
+        "hospital_id": "H002",
+        "claim_amount": 130443,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1866",
+        "patient_id": "P270",
+        "hospital_id": "H019",
+        "claim_amount": 58668,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1867",
+        "patient_id": "P791",
+        "hospital_id": "H016",
+        "claim_amount": 140866,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1868",
+        "patient_id": "P390",
+        "hospital_id": "H013",
+        "claim_amount": 166742,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1869",
+        "patient_id": "P802",
+        "hospital_id": "H013",
+        "claim_amount": 137225,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1875",
+        "patient_id": "P920",
+        "hospital_id": "H016",
+        "claim_amount": 139450,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1884",
+        "patient_id": "P613",
+        "hospital_id": "H004",
+        "claim_amount": 140361,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1886",
+        "patient_id": "P259",
+        "hospital_id": "H018",
+        "claim_amount": 129187,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1892",
+        "patient_id": "P194",
+        "hospital_id": "H014",
+        "claim_amount": 176435,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1895",
+        "patient_id": "P751",
+        "hospital_id": "H019",
+        "claim_amount": 48134,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1898",
+        "patient_id": "P493",
+        "hospital_id": "H018",
+        "claim_amount": 144435,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1900",
+        "patient_id": "P914",
+        "hospital_id": "H014",
+        "claim_amount": 143202,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1901",
+        "patient_id": "P249",
+        "hospital_id": "H006",
+        "claim_amount": 108834,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1902",
+        "patient_id": "P570",
+        "hospital_id": "H003",
+        "claim_amount": 26632,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1904",
+        "patient_id": "P202",
+        "hospital_id": "H002",
+        "claim_amount": 156573,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1905",
+        "patient_id": "P305",
+        "hospital_id": "H012",
+        "claim_amount": 65030,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1910",
+        "patient_id": "P609",
+        "hospital_id": "H014",
+        "claim_amount": 151420,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1913",
+        "patient_id": "P666",
+        "hospital_id": "H017",
+        "claim_amount": 139443,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1914",
+        "patient_id": "P294",
+        "hospital_id": "H019",
+        "claim_amount": 133928,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1921",
+        "patient_id": "P190",
+        "hospital_id": "H015",
+        "claim_amount": 137959,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1924",
+        "patient_id": "P752",
+        "hospital_id": "H012",
+        "claim_amount": 124372,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1931",
+        "patient_id": "P968",
+        "hospital_id": "H012",
+        "claim_amount": 94651,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1935",
+        "patient_id": "P733",
+        "hospital_id": "H009",
+        "claim_amount": 118943,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1939",
+        "patient_id": "P146",
+        "hospital_id": "H004",
+        "claim_amount": 64802,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1940",
+        "patient_id": "P809",
+        "hospital_id": "H002",
+        "claim_amount": 133706,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1941",
+        "patient_id": "P252",
+        "hospital_id": "H013",
+        "claim_amount": 88437,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1942",
+        "patient_id": "P340",
+        "hospital_id": "H010",
+        "claim_amount": 104339,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1949",
+        "patient_id": "P647",
+        "hospital_id": "H009",
+        "claim_amount": 179351,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1954",
+        "patient_id": "P153",
+        "hospital_id": "H020",
+        "claim_amount": 132007,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1959",
+        "patient_id": "P505",
+        "hospital_id": "H009",
+        "claim_amount": 93352,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1967",
+        "patient_id": "P151",
+        "hospital_id": "H018",
+        "claim_amount": 56733,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1970",
+        "patient_id": "P521",
+        "hospital_id": "H013",
+        "claim_amount": 161151,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1971",
+        "patient_id": "P669",
+        "hospital_id": "H011",
+        "claim_amount": 123489,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1972",
+        "patient_id": "P221",
+        "hospital_id": "H013",
+        "claim_amount": 156878,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1974",
+        "patient_id": "P422",
+        "hospital_id": "H001",
+        "claim_amount": 130676,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1976",
+        "patient_id": "P493",
+        "hospital_id": "H010",
+        "claim_amount": 60513,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1977",
+        "patient_id": "P504",
+        "hospital_id": "H004",
+        "claim_amount": 134085,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1981",
+        "patient_id": "P452",
+        "hospital_id": "H002",
+        "claim_amount": 179819,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1982",
+        "patient_id": "P106",
+        "hospital_id": "H002",
+        "claim_amount": 138287,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1986",
+        "patient_id": "P535",
+        "hospital_id": "H001",
+        "claim_amount": 126098,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1989",
+        "patient_id": "P944",
+        "hospital_id": "H017",
+        "claim_amount": 170253,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1991",
+        "patient_id": "P744",
+        "hospital_id": "H015",
+        "claim_amount": 166993,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1994",
+        "patient_id": "P999",
+        "hospital_id": "H005",
+        "claim_amount": 171488,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    },
+    {
+        "claim_id": "C1998",
+        "patient_id": "P600",
+        "hospital_id": "H004",
+        "claim_amount": 125451,
+        "fraud": 1,
+        "alert": "High Risk Claim Detected",
+        "date": "28-06-2026",
+        "time": "14:40:48"
+    }
+]

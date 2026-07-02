@@ -1,0 +1,9 @@
+{
+    "total_claims": 1000,
+    "fraud_claims": 251,
+    "model_accuracy": 98.5,
+    "highest_risk": 89,
+    "highest_claim": 185000,
+    "top_hospital": "H005",
+    "top_disease": "Cancer"
+}

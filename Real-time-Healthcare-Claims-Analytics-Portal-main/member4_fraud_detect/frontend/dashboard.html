@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Fraud Detection Dashboard</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Font Awesome -->
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+
+</div>
+    
+<!-- SIDEBAR -->
+<div class="sidebar">
+<h3>MENU</h3>
+<ul>
+<li onclick="window.location.href='../../member2_analytics_dashboard/analytics.html'">
+    📊 Analytics Dashboard
+</li>
+<li onclick="window.location.href='../../member3_claim_manage/claim_submission.html'">
+    📄Claims Management
+</li>
+
+<li onclick="window.location.href='../../member4_fraud_detect/frontend/dashboard.html'">
+    🤖 AI Fraud Detection
+</li>
+
+<li onclick="window.location.href='../../member5_predictive_analytics/predictive.html'">
+    📈 Predictive Analytics
+</li>
+
+<li onclick="window.location.href='../../member6_notification_alert/frontend/dashboard.html'">
+    🔔 Notifications & Alerts
+</li>
+
+<li onclick="window.location.href='../../member7_reports_document/report.html'">
+    ☁️ Reports & Documentation
+</li>
+
+<li onclick="window.location.href='../../member8_ai_recommdation/Airecom.html'">
+    🤖 AI Insights
+</li>
+</ul>
+</div>
+
+
+</div>
+        </header>
+
+        <!-- ========================= DASHBOARD ========================= -->
+
+        <section id="dashboard">
+
+            <div class="page-title">
+
+                <h2>Dashboard Overview</h2>
+
+                <p>
+
+                    Real-Time Healthcare Fraud Monitoring
+
+                </p>
+
+            </div>
+
+            <!-- ================= Cards ================= -->
+
+            <div class="cards">
+
+                <div class="card blue">
+
+                    <div class="card-icon">
+
+                        <i class="fa-solid fa-file-medical"></i>
+
+                    </div>
+
+                    <div class="card-info">
+
+                        <h2 id="totalClaims">
+
+                            1000
+
+                        </h2>
+
+                        <p>
+
+                            Total Claims
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="card red">
+
+                    <div class="card-icon">
+
+                        <i class="fa-solid fa-triangle-exclamation"></i>
+
+                    </div>
+
+                    <div class="card-info">
+
+                        <h2 id="fraudClaims">
+
+                            251
+
+                        </h2>
+
+                        <p>
+
+                            Fraud Claims
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="card green">
+
+                    <div class="card-icon">
+
+                        <i class="fa-solid fa-brain"></i>
+
+                    </div>
+
+                    <div class="card-info">
+
+                        <h2 id="modelAccuracy">
+
+                            98.5%
+
+                        </h2>
+
+                        <p>
+
+                            Model Accuracy
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+                <div class="card orange">
+
+                    <div class="card-icon">
+
+                        <i class="fa-solid fa-shield-virus"></i>
+
+                    </div>
+
+                    <div class="card-info">
+
+                        <h2 id="riskScore">
+
+                            89%
+
+                        </h2>
+
+                        <p>
+
+                            Risk Score
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- ======= PART 2 STARTS HERE ======= -->
+
+        <!-- ================= FRAUD ALERT SECTION ================= -->
+
+<section id="alerts" class="section">
+
+    <div class="section-header">
+
+        <h2>
+            <i class="fa-solid fa-triangle-exclamation"></i>
+            Fraud Alert
+        </h2>
+
+        <p>Latest high-risk healthcare claim detected by AI.</p>
+
+    </div>
+
+    <div class="alert-card">
+
+        <div class="alert-left">
+
+            <div class="alert-icon">
+
+                <i class="fa-solid fa-triangle-exclamation"></i>
+
+            </div>
+
+        </div>
+
+        <div class="alert-right">
+
+            <h3 id="alertTitle">
+
+                High Risk Claim Detected
+
+            </h3>
+
+            <p>
+
+                AI has detected a suspicious healthcare claim that requires immediate administrator review.
+
+            </p>
+
+
+            <button id="viewAlertBtn">
+
+                View Details
+
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ================= ADMIN NOTIFICATION ================= -->
+
+<section id="notification" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-bell"></i>
+
+            Administrator Notification
+
+        </h2>
+
+        <p>
+
+            Notification generated after fraud detection.
+
+        </p>
+
+    </div>
+
+    <div class="notification-card">
+
+        <div class="notification-icon">
+
+            <i class="fa-solid fa-bell"></i>
+
+        </div>
+
+        <div class="notification-content">
+
+            <h3>
+
+                Fraud Claim Notification
+
+            </h3>
+
+            <p id="notificationText">
+
+                A high-risk healthcare claim has been detected. Please review immediately.
+
+            </p>
+
+            <button id="notificationBtn">
+
+                Review Claim
+
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ======= PART 3 STARTS HERE ======= -->
+
+<!-- ================= AI INSIGHTS ================= -->
+
+<section id="insights" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-brain"></i>
+
+            AI Insights
+
+        </h2>
+
+        <p>
+
+            AI-generated analysis of healthcare claim data.
+
+        </p>
+
+    </div>
+
+    <div class="insight-grid">
+
+        <div class="insight-box">
+
+            <h4>Total Claims</h4>
+
+            <h2 id="aiTotalClaims">1000</h2>
+
+        </div>
+
+        <div class="insight-box">
+
+            <h4>Highest Claim</h4>
+
+            <h2 id="highestClaim">₹185000</h2>
+
+        </div>
+
+        <div class="insight-box">
+
+            <h4>Duplicate Claim</h4>
+
+            <h2 id="topHospital">2</h2>
+
+        </div>
+
+        <div class="insight-box">
+
+            <h4>Top Disease</h4>
+
+            <h2 id="topDisease">Cancer</h2>
+
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ================= FRAUD TREND ================= -->
+
+<section id="trends" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-chart-column"></i>
+
+            Fraud Trends
+
+        </h2>
+
+        <p>
+
+            AI Fraud Detection Trend Visualization
+
+        </p>
+
+    </div>
+
+    <div class="chart-card">
+
+        <img src="images/fraud_chart.png"
+
+             id="fraudChart"
+
+             alt="Fraud Trend Chart">
+
+    </div>
+
+</section>
+
+<!-- ================= FRAUD LOGS ================= -->
+
+<section id="logs" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-file-lines"></i>
+
+            Suspicious Activity Logs
+
+        </h2>
+
+        <p>
+
+            Recently detected fraudulent healthcare claims.
+
+        </p>
+
+    </div>
+
+    <table class="logs-table">
+
+        <thead>
+
+            <tr>
+
+                <th>Claim ID</th>
+
+                <th>Patient</th>
+
+                <th>Hospital</th>
+
+                <th>Risk</th>
+
+                <th>Status</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody id="logTable">
+
+            <tr>
+
+                <td>C0015</td>
+
+                <td>P302</td>
+
+                <td>H005</td>
+
+                <td>90%</td>
+
+                <td>High Risk</td>
+
+            </tr>
+            <tr>
+
+                <td>C0047</td>
+
+                <td>P189</td>
+
+                <td>H012</td>
+
+                <td>92%</td>
+
+                <td>High Risk</td>
+
+            </tr>
+            <tr>
+
+                <td>C0091</td>
+
+                <td>P522</td>
+
+                <td>H009</td>
+
+                <td>81%</td>
+
+                <td>Medium Risk</td>
+
+            </tr>
+
+        </tbody>
+
+    </table>
+
+</section>
+
+<!-- ================= REPORT ================= -->
+
+<section id="reports" class="section">
+
+    <div class="section-header">
+
+        <h2>
+
+            <i class="fa-solid fa-download"></i>
+
+            Fraud Report
+
+        </h2>
+
+        <p>
+
+            Download Fraud Analysis Report
+
+        </p>
+
+    </div>
+
+    <button id="downloadBtn">
+
+        Download Report
+
+    </button>
+
+</section>
+
+<div class="bottom-nav">
+
+    <a href="..\member3_claim_manage\claim_submission.html">
+        &larr; Previous
+    </a>
+
+    <a href="../../member5_predictive_analytics\predictive.html" class="next-btn">
+        Predictive Analytics &rarr;
+    </a>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<footer class="footer">
+
+    <p>
+
+        © 2026 All Rights Reserved Healthcare Claims Analytics Portal
+
+    </p>
+
+</footer>
+
+</main>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

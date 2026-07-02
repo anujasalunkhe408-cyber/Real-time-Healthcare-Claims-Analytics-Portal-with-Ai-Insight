@@ -1,0 +1,157 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial,sans-serif;
+}
+
+body{
+    background:linear-gradient(135deg,#f0f9ff,#dbeafe,#e0e7ff);
+    min-height:100vh;
+}
+
+.header{
+    background:#2563eb;
+    color:white;
+    padding:20px;
+    text-align:center;
+    font-size:28px;
+    font-weight:bold;
+    box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:30px auto;
+}
+
+.section-title{
+    text-align:center;
+    color:#1e40af;
+    font-size:32px;
+    margin-bottom:25px;
+}
+
+.card{
+    background:white;
+    border-radius:20px;
+    padding:25px;
+    margin-bottom:20px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
+    border-top:5px solid #2563eb;
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+    box-shadow:0 8px 18px rgba(0,0,0,0.15);
+}
+
+.card h2{
+    color:#1e40af;
+    margin-bottom:10px;
+}
+
+.card p{
+    color:#475569;
+    line-height:1.6;
+}
+
+.btn{
+    background:#2563eb;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:10px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+.btn:hover{
+    background:#1d4ed8;
+}
+
+.input-field,
+select,
+textarea{
+    width:100%;
+    padding:12px;
+    margin-top:8px;
+    margin-bottom:15px;
+    border:1px solid #cbd5e1;
+    border-radius:10px;
+    font-size:16px;
+}
+
+.input-field:focus,
+select:focus,
+textarea:focus{
+    outline:none;
+    border-color:#2563eb;
+}
+
+.stats{
+    display:flex;
+    flex-wrap:wrap;
+    gap:20px;
+    justify-content:center;
+}
+
+.stat-box{
+    background:white;
+    width:250px;
+    padding:25px;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
+    border-top:5px solid #2563eb;
+}
+
+.stat-box h2{
+    color:#2563eb;
+    font-size:35px;
+}
+
+.stat-box p{
+    color:#475569;
+}
+
+.logout{
+    background:#ef4444;
+    color:white;
+    border:none;
+    padding:12px 30px;
+    border-radius:10px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+.logout:hover{
+    background:#dc2626;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 4px 12px rgba(0,0,0,0.1);
+}
+
+th{
+    background:#2563eb;
+    color:white;
+    padding:15px;
+}
+
+td{
+    padding:12px;
+    border-bottom:1px solid #e2e8f0;
+    text-align:center;
+}
+
+tr:hover{
+    background:#f8fafc;
+}

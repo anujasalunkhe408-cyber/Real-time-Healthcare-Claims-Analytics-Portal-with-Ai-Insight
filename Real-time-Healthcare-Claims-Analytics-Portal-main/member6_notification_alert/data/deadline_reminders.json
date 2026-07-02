@@ -1,0 +1,74 @@
+[
+    {
+        "reminder_id": "DR001",
+        "claim_id": "C1234",
+        "patient_id": "P574",
+        "patient_name": "Patient_336",
+        "email": "patient361@gmail.com",
+        "due_date": "02-07-2026",
+        "days_left": 3,
+        "message": "Your healthcare claim deadline is in 3 day(s).",
+        "date": "28-06-2026",
+        "time": "14:58:37"
+    },
+    {
+        "reminder_id": "DR002",
+        "claim_id": "C1604",
+        "patient_id": "P628",
+        "patient_name": "Patient_11",
+        "email": "patient238@gmail.com",
+        "due_date": "30-06-2026",
+        "days_left": 1,
+        "message": "Your healthcare claim deadline is in 1 day(s).",
+        "date": "28-06-2026",
+        "time": "14:58:37"
+    },
+    {
+        "reminder_id": "DR003",
+        "claim_id": "C1653",
+        "patient_id": "P894",
+        "patient_name": "Patient_225",
+        "email": "patient388@gmail.com",
+        "due_date": "30-06-2026",
+        "days_left": 1,
+        "message": "Your healthcare claim deadline is in 1 day(s).",
+        "date": "28-06-2026",
+        "time": "14:58:37"
+    },
+    {
+        "reminder_id": "DR004",
+        "claim_id": "C1839",
+        "patient_id": "P817",
+        "patient_name": "Patient_146",
+        "email": "patient179@gmail.com",
+        "due_date": "30-06-2026",
+        "days_left": 1,
+        "message": "Your healthcare claim deadline is in 1 day(s).",
+        "date": "28-06-2026",
+        "time": "14:58:37"
+    },
+    {
+        "reminder_id": "DR005",
+        "claim_id": "C1886",
+        "patient_id": "P259",
+        "patient_name": "Patient_55",
+        "email": "patient274@gmail.com",
+        "due_date": "01-07-2026",
+        "days_left": 2,
+        "message": "Your healthcare claim deadline is in 2 day(s).",
+        "date": "28-06-2026",
+        "time": "14:58:37"
+    },
+    {
+        "reminder_id": "DR006",
+        "claim_id": "C1926",
+        "patient_id": "P563",
+        "patient_name": "Patient_248",
+        "email": "patient312@gmail.com",
+        "due_date": "02-07-2026",
+        "days_left": 3,
+        "message": "Your healthcare claim deadline is in 3 day(s).",
+        "date": "28-06-2026",
+        "time": "14:58:37"
+    }
+]

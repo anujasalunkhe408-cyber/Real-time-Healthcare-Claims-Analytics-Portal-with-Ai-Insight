@@ -1,0 +1,42 @@
+[
+    {
+        "alert_id": "SA001",
+        "type": "Database",
+        "message": "Database Connected Successfully",
+        "status": "Online",
+        "date": "28-06-2026",
+        "time": "14:48:17"
+    },
+    {
+        "alert_id": "SA002",
+        "type": "AI Model",
+        "message": "Fraud Detection Model Running",
+        "status": "Running",
+        "date": "28-06-2026",
+        "time": "14:48:17"
+    },
+    {
+        "alert_id": "SA003",
+        "type": "Email Service",
+        "message": "Email Notification Service Active",
+        "status": "Online",
+        "date": "28-06-2026",
+        "time": "14:48:17"
+    },
+    {
+        "alert_id": "SA004",
+        "type": "Dataset",
+        "message": "Healthcare Claims Dataset Loaded",
+        "status": "Loaded",
+        "date": "28-06-2026",
+        "time": "14:48:17"
+    },
+    {
+        "alert_id": "SA005",
+        "type": "Storage",
+        "message": "System Storage Available",
+        "status": "Healthy",
+        "date": "28-06-2026",
+        "time": "14:48:17"
+    }
+]

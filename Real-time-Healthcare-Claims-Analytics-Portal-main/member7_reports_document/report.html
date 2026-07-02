@@ -1,0 +1,1180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+   
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Healthcare Claims Analytics Portal</title>
+
+<link rel="stylesheet" href="report.css">
+
+
+</head>
+
+<body>
+
+<!-- ================= HEADER ================= -->
+
+<header class="header">
+
+<div class="logo">
+🏥 Healthcare Claims Analytics Portal
+</div>
+
+
+<div class="user-box">
+
+<div class="admin-img">
+👩‍💼
+</div>
+
+<div>
+
+<h3>Dr.Priya Sharma</h3>
+
+</div>
+
+<button class="logout-btn"onclick="window.location.href='../member1_user_registration/login.html'">
+Logout
+</button>
+
+</div>
+
+</header>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+<h3>MENU</h3>
+<ul>
+<li onclick="window.location.href='../member2_analytics_dashboard/analytics.html'">
+    📊 Analytics Dashboard
+</li>
+
+<li onclick="window.location.href='../member3_claim_manage/claim_submission.html'">
+  📄Claims Management
+</li>
+
+<li onclick="window.location.href='../member4_fraud_detect/frontend/dashboard.html'">
+    🤖 AI Fraud Detection
+</li>
+
+<li onclick="window.location.href='../member5_predictive_analytics/predictive.html'">
+    📈 Predictive Analytics
+</li>
+
+<li onclick="window.location.href='../member6_notification_alert/frontend/dashboard.html'">
+    🔔 Notifications & Alerts
+</li>
+
+<li onclick="window.location.href='../member7_reports_document/report.html'">
+    ☁️ Reports & Documentation
+</li>
+
+<li onclick="window.location.href='../member8_ai_recommdation/Airecom.html'">
+    🤖 AI Insights
+</li>
+</ul>
+</div>
+
+
+
+<!-- ================= NAVIGATION ================= -->
+
+<nav class="navbar">
+
+<ul>
+
+<li><a href="#dashboard">🏠 Dashboard</a></li>
+<li><a href="#daily">📅 Daily Report</a></li>
+<li><a href="#weekly">📊 Weekly Report</a></li>
+<li><a href="#monthly">📈 Monthly Report</a></li>
+<li><a href="#ai">🤖 AI Reports</a></li>
+<li><a href="#audit">📄 Audit Logs</a></li>
+<li><a href="#export">⬇ Export</a></li>
+
+</ul>
+
+</nav>
+
+<!-- ================= MAIN CONTAINER ================= -->
+
+<div class="container" id="dashboard">
+
+<!-- ================= HERO SECTION ================= -->
+
+<section class="hero">
+
+<h1>
+Reports & Documentation Dashboard
+</h1>
+
+<p>
+
+This dashboard provides complete healthcare claim reports,
+AI generated insights, monthly analytics, fraud detection,
+audit logs and documentation.
+
+</p>
+
+<button class="btn"onclick="generateReport()">
+Generate New Report
+</button>
+
+</section>
+
+<!-- ================= THEORY ================= -->
+
+<div class="card">
+
+<h2>
+📖 Project Overview
+</h2>
+
+<p>
+
+The Reports & Documentation module is responsible for
+collecting claim information from the healthcare database
+and generating daily, weekly and monthly reports.
+
+It also generates AI Insight Reports,
+Fraud Detection Reports,
+Prediction Reports,
+Trend Analysis,
+Audit Logs
+and Exportable PDF Documentation.
+
+The objective of this module is to provide accurate,
+real-time healthcare claim analytics
+for administrators and analysts.
+
+</p>
+
+</div>
+
+<!-- ================= DASHBOARD STATS ================= -->
+
+<h2 class="section-title">
+
+Dashboard Statistics
+
+</h2>
+
+<div class="stats">
+
+<div class="stat-box">
+
+<h3>Total Claims</h3>
+
+<h1>
+30
+</h1>
+
+<p>
+
+Total submitted healthcare claims.
+
+</p>
+
+</div>
+
+<div class="stat-box">
+
+<h3>Approved</h3>
+
+<h1>
+
+19
+
+</h1>
+
+<p>
+
+Successfully approved claims.
+
+</p>
+
+</div>
+
+<div class="stat-box">
+
+<h3>Pending</h3>
+
+<h1>
+
+4
+
+</h1>
+
+<p>
+
+Waiting for verification.
+
+</p>
+
+</div>
+
+<div class="stat-box">
+
+<h3>Rejected</h3>
+
+<h1>
+
+7
+
+</h1>
+
+<p>
+
+Rejected healthcare claims.
+
+</p>
+
+</div>
+
+</div>
+
+<!-- ================= REPORT SEARCH ================= -->
+
+<div class="card">
+
+<h2>
+
+🔍 Search Reports
+
+</h2>
+
+<input
+type="text"
+placeholder="Search Claim ID or Patient Name"
+class="input-field">
+
+<select class="input-field">
+
+<option>
+Select Report
+</option>
+
+<option>
+Daily Report
+</option>
+
+<option>
+Weekly Report
+</option>
+
+<option>
+Monthly Report
+</option>
+
+<option>
+Fraud Report
+</option>
+
+<option>
+Prediction Report
+</option>
+
+</select>
+
+<input
+type="date"
+class="input-field">
+
+<button class="btn">
+
+Search Report
+
+</button>
+
+</div>
+
+<!-- ================= DAILY REPORT ================= -->
+
+<div class="card" id="daily">
+
+<h2>
+
+📅 Daily Report Summary
+
+</h2>
+
+<p>
+
+The Daily Report provides a complete overview of
+healthcare claims submitted today.
+
+It includes approved claims,
+pending claims,
+rejected claims,
+claim amount,
+highest claim,
+lowest claim
+and hospital wise summary.
+
+</p>
+
+<div class="stats">
+
+<div class="stat-box">
+
+<h3>
+
+Today's Claims
+
+</h3>
+
+<h1>
+
+30
+
+</h1>
+
+</div>
+
+<div class="stat-box">
+
+<h3>
+
+Highest Claim
+
+</h3>
+
+<h1>
+
+₹2,20,000
+
+</h1>
+
+</div>
+
+<div class="stat-box">
+
+<h3>
+
+Lowest Claim
+
+</h3>
+
+<h1>
+
+₹18,000
+
+</h1>
+
+</div>
+
+<div class="stat-box">
+
+<h3>
+
+Total Amount
+
+</h3>
+
+<h1>
+
+₹24,50,000
+
+</h1>
+
+</div>
+
+</div>
+
+<button class="btn">
+
+View Full Daily Report
+
+</button>
+
+</div>
+
+<!-- ================= QUICK FEATURES ================= -->
+
+<div class="card">
+
+<h2>
+
+⭐ Module Features
+
+</h2>
+
+<ul>
+
+<li>
+✔ Daily Report Generation
+</li>
+
+<li>
+✔ Weekly Report Generation
+</li>
+
+<li>
+✔ Monthly Report Generation
+</li>
+
+<li>
+✔ AI Fraud Detection Reports
+</li>
+
+<li>
+✔ AI Prediction Reports
+</li>
+
+<li>
+✔ Trend Analysis Reports
+</li>
+
+<li>
+✔ Download PDF
+</li>
+
+<li>
+✔ Export Excel
+</li>
+
+<li>
+✔ Audit Logs
+</li>
+
+<li>
+✔ User Activity Tracking
+</li>
+
+</ul>
+
+</div>
+
+
+
+
+<!-- ================= WEEKLY REPORT ================= -->
+
+<div class="card" id="weekly">
+
+<h2>📊 Weekly Report Summary</h2>
+
+<p>
+The weekly report provides claim statistics collected during
+the current week. It helps administrators monitor claim
+performance, approval ratio, rejected claims and pending
+verification cases.
+</p>
+
+<div class="stats">
+
+<div class="stat-box">
+<h3>Week 1</h3>
+<h1>7</h1>
+<p>Total Claims</p>
+<p>Approved : 4</p>
+<p>Pending : 2</p>
+<p>Rejected : 1</p>
+</div>
+
+<div class="stat-box">
+<h3>Week 2</h3>
+<h1>7</h1>
+<p>Total Claims</p>
+<p>Approved : 4</p>
+<p>Pending : 1</p>
+<p>Rejected : 2</p>
+</div>
+
+<div class="stat-box">
+<h3>Week 3</h3>
+<h1>7</h1>
+<p>Total Claims</p>
+<p>Approved : 5</p>
+<p>Pending : 1</p>
+<p>Rejected : 1</p>
+</div>
+
+<div class="stat-box">
+<h3>Week 4</h3>
+<h1>9</h1>
+<p>Total Claims</p>
+<p>Approved : 6</p>
+<p>Pending : 1</p>
+<p>Rejected : 2</p>
+</div>
+
+</div>
+
+</div>
+
+<!-- ================= MONTHLY REPORT ================= -->
+
+<div class="card" id="monthly">
+
+<h2>📈 Monthly Report Summary</h2>
+
+<p>
+The monthly report summarizes all healthcare claims generated
+during June 2026. It includes approval status, financial
+analysis, hospital statistics and department-wise claim
+distribution.
+</p>
+
+<div class="stats">
+
+<div class="stat-box">
+<h3>Total Claims</h3>
+<h1>30</h1>
+<p>Healthcare Claims</p>
+</div>
+
+<div class="stat-box">
+<h3>Approved</h3>
+<h1>19</h1>
+<p>Successfully Approved</p>
+</div>
+
+<div class="stat-box">
+<h3>Pending</h3>
+<h1>4</h1>
+<p>Waiting Verification</p>
+</div>
+
+<div class="stat-box">
+<h3>Rejected</h3>
+<h1>7</h1>
+<p>Rejected Claims</p>
+</div>
+
+</div>
+
+</div>
+
+<!-- ================= HOSPITAL SUMMARY ================= -->
+
+<div class="card" id="hospital">
+
+<h2>🏥 Hospital Wise Claim Summary</h2>
+
+<table>
+
+<tr>
+<th>Hospital Name</th>
+<th>Total Claims</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>City Care Hospital</td>
+<td>5</td>
+<td>Excellent</td>
+</tr>
+
+<tr>
+<td>Lifeline Hospital</td>
+<td>5</td>
+<td>Very Good</td>
+</tr>
+
+<tr>
+<td>Metro Hospital</td>
+<td>6</td>
+<td>Excellent</td>
+</tr>
+
+<tr>
+<td>Sunshine Hospital</td>
+<td>4</td>
+<td>Good</td>
+</tr>
+
+<tr>
+<td>Apex Hospital</td>
+<td>3</td>
+<td>Good</td>
+</tr>
+
+<tr>
+<td>Hope Hospital</td>
+<td>3</td>
+<td>Very Good</td>
+</tr>
+
+<tr>
+<td>Global Hospital</td>
+<td>4</td>
+<td>Excellent</td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= DEPARTMENT SUMMARY ================= -->
+
+<div class="card" id="department">
+
+<h2>🩺 Department Wise Summary</h2>
+
+<table>
+
+<tr>
+<th>Department</th>
+<th>Total Claims</th>
+<th>Performance</th>
+</tr>
+
+<tr><td>Cardiology</td><td>4</td><td>High</td></tr>
+<tr><td>Neurology</td><td>4</td><td>High</td></tr>
+<tr><td>Orthopedics</td><td>4</td><td>High</td></tr>
+<tr><td>Oncology</td><td>4</td><td>High</td></tr>
+<tr><td>General Medicine</td><td>4</td><td>High</td></tr>
+<tr><td>ENT</td><td>2</td><td>Medium</td></tr>
+<tr><td>Dermatology</td><td>2</td><td>Medium</td></tr>
+<tr><td>Nephrology</td><td>2</td><td>Medium</td></tr>
+<tr><td>Pediatrics</td><td>2</td><td>Medium</td></tr>
+<tr><td>Pulmonology</td><td>2</td><td>Medium</td></tr>
+
+</table>
+
+</div>
+
+<!-- ================= FINANCIAL SUMMARY ================= -->
+
+<div class="card" id="financial">
+
+<h2>💰 Financial Summary</h2>
+
+<div class="stats">
+
+<div class="stat-box">
+<h3>Total Claim Amount</h3>
+<h1>₹24.50L</h1>
+<p>Total Claimed Value</p>
+</div>
+
+<div class="stat-box">
+<h3>Highest Claim</h3>
+<h1>₹2.20L</h1>
+<p>Claim ID : CL009</p>
+</div>
+
+<div class="stat-box">
+<h3>Lowest Claim</h3>
+<h1>₹18K</h1>
+<p>Claim ID : CL017</p>
+</div>
+
+<div class="stat-box">
+<h3>Average Claim</h3>
+<h1>₹81.6K</h1>
+<p>Average per Claim</p>
+</div>
+
+</div>
+
+</div>
+
+<!-- ================= REPORT INFORMATION ================= -->
+
+<div class="card" id="report-info">
+
+<h2>📄 Report Description</h2>
+
+<p>
+This reporting module automatically generates daily, weekly
+and monthly healthcare claim reports. It provides hospital-
+wise analysis, department-wise distribution, financial
+statistics and performance indicators. These reports help
+administrators make better decisions by providing real-time
+analytics, improving claim processing efficiency and
+supporting healthcare management through structured data.
+</p>
+
+</div>
+
+<!-- ================= CLAIMS REPORT TABLE ================= -->
+
+<div class="card" id="claims">
+
+<h2>📋 Healthcare Claims Report</h2>
+
+<p>
+Below is the complete healthcare claims report generated for June 2026.
+Administrators can view claim information, verify status, print reports,
+or download documentation.
+</p>
+
+<input type="text" class="input-field"
+placeholder="🔍 Search Claim ID, Patient Name or Hospital">
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>Claim ID</th>
+<th>Patient Name</th>
+<th>Hospital</th>
+<th>Department</th>
+<th>Amount</th>
+<th>Status</th>
+<th>Date</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+<td>CL001</td>
+<td>Rahul Patil</td>
+<td>City Care Hospital</td>
+<td>Cardiology</td>
+<td>₹85,000</td>
+<td><span class="approved">Approved</span></td>
+<td>01-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL002</td>
+<td>Priya Sharma</td>
+<td>Lifeline Hospital</td>
+<td>Neurology</td>
+<td>₹65,000</td>
+<td><span class="pending">Pending</span></td>
+<td>02-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL003</td>
+<td>Amit Verma</td>
+<td>Sunshine Hospital</td>
+<td>Orthopedics</td>
+<td>₹1,20,000</td>
+<td><span class="rejected">Rejected</span></td>
+<td>03-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL004</td>
+<td>Sneha Joshi</td>
+<td>Metro Hospital</td>
+<td>General Medicine</td>
+<td>₹25,000</td>
+<td><span class="approved">Approved</span></td>
+<td>04-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL005</td>
+<td>Rohan Kulkarni</td>
+<td>City Care Hospital</td>
+<td>Oncology</td>
+<td>₹1,80,000</td>
+<td><span class="approved">Approved</span></td>
+<td>05-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL006</td>
+<td>Neha Patil</td>
+<td>Lifeline Hospital</td>
+<td>Cardiology</td>
+<td>₹95,000</td>
+<td><span class="pending">Pending</span></td>
+<td>06-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL007</td>
+<td>Arjun Singh</td>
+<td>Metro Hospital</td>
+<td>Neurology</td>
+<td>₹70,000</td>
+<td><span class="approved">Approved</span></td>
+<td>07-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL008</td>
+<td>Pooja Kale</td>
+<td>Sunshine Hospital</td>
+<td>Orthopedics</td>
+<td>₹1,10,000</td>
+<td><span class="rejected">Rejected</span></td>
+<td>08-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL009</td>
+<td>Vikram Shah</td>
+<td>City Care Hospital</td>
+<td>Oncology</td>
+<td>₹2,20,000</td>
+<td><span class="approved">Approved</span></td>
+<td>09-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL010</td>
+<td>Kavita More</td>
+<td>Lifeline Hospital</td>
+<td>General Medicine</td>
+<td>₹30,000</td>
+<td><span class="approved">Approved</span></td>
+<td>10-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL011</td>
+<td>Rohit Deshmukh</td>
+<td>Apex Hospital</td>
+<td>Cardiology</td>
+<td>₹1,35,000</td>
+<td><span class="approved">Approved</span></td>
+<td>11-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL012</td>
+<td>Anjali Patil</td>
+<td>Global Hospital</td>
+<td>Neurology</td>
+<td>₹55,000</td>
+<td><span class="pending">Pending</span></td>
+<td>12-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL013</td>
+<td>Sagar Jadhav</td>
+<td>Metro Hospital</td>
+<td>Oncology</td>
+<td>₹2,10,000</td>
+<td><span class="approved">Approved</span></td>
+<td>13-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL014</td>
+<td>Meera Joshi</td>
+<td>Lifeline Hospital</td>
+<td>Orthopedics</td>
+<td>₹92,000</td>
+<td><span class="approved">Approved</span></td>
+<td>14-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+<tr>
+<td>CL015</td>
+<td>Akash Pawar</td>
+<td>Sunshine Hospital</td>
+<td>General Medicine</td>
+<td>₹45,000</td>
+<td><span class="rejected">Rejected</span></td>
+<td>15-06-2026</td>
+<td>
+
+</td>
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<tbody>
+
+
+<!-- ================= AI INSIGHT REPORT ================= -->
+
+<div class="card" id="ai">
+
+<h2>🤖 AI Insight Report</h2>
+
+<p>
+Artificial Intelligence analyzes historical healthcare claim
+records and generates fraud insights, approval probability,
+risk analysis and prediction reports to support decision making.
+</p>
+
+<div class="stats">
+
+<div class="stat-box">
+<h3>Fraud Risk</h3>
+<h1>5</h1>
+<p>High Risk Claims</p>
+</div>
+
+<div class="stat-box">
+<h3>Prediction</h3>
+<h1>35</h1>
+<p>Expected Next Month Claims</p>
+</div>
+
+<div class="stat-box">
+<h3>Approval Rate</h3>
+<h1>82%</h1>
+<p>AI Prediction</p>
+</div>
+
+<div class="stat-box">
+<h3>Risk Score</h3>
+<h1>91%</h1>
+<p>Fraud Detection Accuracy</p>
+</div>
+
+</div>
+
+</div>
+
+<!-- ================= FRAUD REPORT ================= -->
+
+<div class="card" id="fraud">
+
+<h2>🚨 AI Fraud Detection Report</h2>
+
+<table>
+
+<tr>
+<th>Claim ID</th>
+<th>Patient</th>
+<th>Risk Score</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>CL009</td>
+<td>Vikram Shah</td>
+<td>95%</td>
+<td><span class="rejected">High Risk</span></td>
+</tr>
+
+<tr>
+<td>CL013</td>
+<td>Sagar Jadhav</td>
+<td>92%</td>
+<td><span class="pending">Medium Risk</span></td>
+</tr>
+
+<tr>
+<td>CL025</td>
+<td>Aditya Patil</td>
+<td>89%</td>
+<td><span class="pending">Medium Risk</span></td>
+</tr>
+
+<tr>
+<td>CL028</td>
+<td>Nikhil Shah</td>
+<td>87%</td>
+<td><span class="approved">Verified</span></td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= PREDICTION REPORT ================= -->
+
+<div class="card" id="prediction">
+
+<h2>📈 AI Prediction Report</h2>
+
+<p>
+The prediction engine estimates the number of future claims,
+approval ratio and healthcare expenses using previous claim
+patterns and machine learning analysis.
+</p>
+
+<div class="stats">
+
+<div class="stat-box">
+<h3>Future Claims</h3>
+<h1>35</h1>
+</div>
+
+<div class="stat-box">
+<h3>Estimated Cost</h3>
+<h1>₹28.5L</h1>
+</div>
+
+<div class="stat-box">
+<h3>Approval</h3>
+<h1>82%</h1>
+</div>
+
+<div class="stat-box">
+<h3>Rejection</h3>
+<h1>12%</h1>
+</div>
+
+</div>
+
+</div>
+
+<!-- ================= AUDIT LOGS ================= -->
+
+<div class="card" id="audit">
+
+<h2>📑 Audit Logs</h2>
+
+<table>
+
+<tr>
+<th>User</th>
+<th>Activity</th>
+<th>Date</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>Admin</td>
+<td>Generated Daily Report</td>
+<td>01-06-2026</td>
+<td><span class="approved">Success</span></td>
+</tr>
+
+<tr>
+<td>Admin</td>
+<td>Generated Weekly Report</td>
+<td>07-06-2026</td>
+<td><span class="approved">Success</span></td>
+</tr>
+
+<tr>
+<td>Analyst</td>
+<td>Viewed AI Report</td>
+<td>15-06-2026</td>
+<td><span class="approved">Success</span></td>
+</tr>
+
+<tr>
+<td>Admin</td>
+<td>Downloaded PDF</td>
+<td>20-06-2026</td>
+<td><span class="approved">Success</span></td>
+</tr>
+
+<tr>
+<td>Admin</td>
+<td>Exported Excel</td>
+<td>28-06-2026</td>
+<td><span class="approved">Success</span></td>
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= DOWNLOAD SECTION ================= -->
+
+<div class="card" id="export">
+
+<h2>📥 Export Reports</h2>
+
+<p>
+Download healthcare claim reports in different formats.
+</p>
+
+<button class="export-btn" onclick="downloadDailyReport()"> Download Daily </button>
+
+<button class="export-btn" onclick="downloadWeeklyReport()"> Download Weekly </button>
+
+<button class="export-btn" onclick="downloadMonthlyReport()"> Download Monthly </button>
+
+<button class="export-btn" onclick="downloadAIReport()"> Download AI Report</button>
+
+<button class="export-btn" onclick="printReport()">🖨 Print Report</button>
+
+</div>
+
+<!-- ================= ABOUT REPORT ================= -->
+
+<div class="card" id="about">
+
+<h2>📘 Report Documentation</h2>
+
+<p>
+
+The Reports & Documentation module stores all healthcare
+claim reports securely and provides administrators with
+daily, weekly and monthly summaries. Artificial Intelligence
+is used to detect fraud, predict future claim trends and
+improve healthcare claim management. All report activities
+are recorded in audit logs to maintain transparency,
+security and accountability within the system.
+
+</p>
+
+</div>
+
+<div class="bottom-nav">
+
+    <a href="..\member6_notification_alert\frontend\dashboard.html">
+        &larr; Previous
+    </a>
+
+    <a href="../member8_ai_recommdation\Airecom.html" class="next-btn">
+        AI Recommendations &rarr;
+    </a>
+
+</div>
+
+<!-- ================= FOOTER ================= -->
+
+<footer class="footer" id="footer">
+
+<p>© 2026 All Rights Reserved Healthcare Claims Analytics Portal</p>
+
+</footer>
+
+</div>
+
+<script src="report.js" defer></script>
+
+</body>
+</html>

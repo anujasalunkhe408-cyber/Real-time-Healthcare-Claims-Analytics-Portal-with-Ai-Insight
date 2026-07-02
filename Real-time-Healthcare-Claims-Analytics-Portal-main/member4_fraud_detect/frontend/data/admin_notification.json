@@ -1,0 +1,8 @@
+{
+    "title": "\ud83d\udea8 Fraud Claim Detected",
+    "message": "A high-risk healthcare claim requires immediate review.",
+    "claim_id": "C0015",
+    "risk_score": 90,
+    "status": "High Risk",
+    "time": "27-06-2026 15:23:49"
+}
